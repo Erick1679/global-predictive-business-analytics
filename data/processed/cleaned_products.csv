@@ -1,0 +1,1001 @@
+product_id,product_name,brand,category,subcategory,supplier_country,cost_price,selling_price,profit_margin,product_rating,inventory_level,launch_date
+PROD-00001,Medical Green,Vertex,Sports,Equipment,Italy,564.94,1537.28,63.25,4.5,56,2026-11-15
+PROD-00002,Court Station,GlobalOne,Fashion,Luxury,Italy,899.99,1304.65,31.02,3.3,1453,2023-03-17
+PROD-00003,Same Describe,GlobalOne,Sports,Outdoor,United Kingdom,91.84,237.49,61.33,4.2,1176,2025-08-28
+PROD-00004,Employee Young,HomeSphere,Sports,Fitness,United Kingdom,1063.57,1311.31,18.89,4.9,755,2026-02-11
+PROD-00005,Station Myself,NovaTech,Beauty,Skincare,United Kingdom,1249.5,1923.91,35.05,3.4,1130,2022-01-02
+PROD-00006,Leader Wife,NovaTech,Fashion,Luxury,China,279.19,470.93,40.72,4.0,719,2023-05-15
+PROD-00007,Low Major,HomeSphere,Home,Appliances,United Kingdom,650.76,1084.14,39.97,4.2,1491,2022-08-31
+PROD-00008,Sometimes Put,Vertex,Beauty,Skincare,United States,213.54,356.06,40.03,3.7,1339,2021-02-01
+PROD-00009,Unit Decade,LuxeCare,Beauty,Cosmetics,Germany,686.82,1687.02,59.29,3.4,1833,2026-02-06
+PROD-00010,Civil Responsibility,LuxeCare,Home,Kitchen,France,773.78,1661.97,53.44,3.1,1379,2022-08-13
+PROD-00011,Word Market,Vertex,Home,Kitchen,United Kingdom,913.28,1345.11,32.1,3.1,1123,2023-09-10
+PROD-00012,Treatment Audience,Apex,Home,Furniture,Germany,1423.58,3907.74,63.57,4.6,655,2026-05-03
+PROD-00013,Popular Event,ProGear,Sports,Outdoor,Italy,460.4,624.43,26.27,4.4,618,2022-09-21
+PROD-00014,Ahead But,UrbanStyle,Electronics,Gaming,United States,663.03,925.1,28.33,4.0,404,2026-05-04
+PROD-00015,Court About,HomeSphere,Electronics,Accessories,Germany,56.41,149.76,62.33,3.5,1568,2022-06-05
+PROD-00016,Employee Approach,GlobalOne,Electronics,Accessories,Germany,995.47,1691.04,41.13,4.0,977,2025-01-16
+PROD-00017,Wife Piece,Apex,Beauty,Personal Care,France,822.33,1230.01,33.14,4.9,1309,2023-01-07
+PROD-00018,Social Day,LuxeCare,Sports,Equipment,Italy,1163.82,3146.04,63.01,4.8,1522,2021-05-12
+PROD-00019,Prepare Add,LuxeCare,Sports,Fitness,United States,898.86,2404.45,62.62,3.2,1145,2026-09-19
+PROD-00020,Travel Television,ProGear,Sports,Fitness,Italy,297.99,379.15,21.41,3.7,1160,2025-11-08
+PROD-00021,Pm Along,ProGear,Fashion,Clothing,United Kingdom,586.07,957.73,38.81,4.7,1377,2025-11-15
+PROD-00022,Right Whether,HomeSphere,Home,Furniture,Italy,538.35,888.01,39.38,4.1,516,2026-06-03
+PROD-00023,Stage Suffer,LuxeCare,Beauty,Cosmetics,United States,215.68,535.64,59.73,3.1,926,2024-07-08
+PROD-00024,Risk Fight,ProGear,Beauty,Skincare,Netherlands,1480.4,3605.65,58.94,3.4,1602,2026-10-25
+PROD-00025,Since Decision,HomeSphere,Beauty,Personal Care,France,13.26,33.21,60.07,4.4,868,2022-01-25
+PROD-00026,Before Lose,UrbanStyle,Fashion,Footwear,United Kingdom,1094.87,2664.95,58.92,3.1,1776,2025-08-12
+PROD-00027,Fund Rather,LuxeCare,Sports,Outdoor,United Kingdom,540.91,749.37,27.82,4.7,1674,2024-04-29
+PROD-00028,Hit Likely,Vertex,Home,Appliances,United States,936.83,1620.19,42.18,3.1,595,2021-10-11
+PROD-00029,Chair Model,Apex,Fashion,Luxury,China,469.92,808.4,41.87,4.5,1496,2024-05-23
+PROD-00030,Fish Individual,NovaTech,Beauty,Skincare,United Kingdom,958.15,2509.91,61.83,3.9,98,2025-02-13
+PROD-00031,Growth Direction,LuxeCare,Beauty,Personal Care,Italy,183.79,430.29,57.29,4.5,1858,2026-09-16
+PROD-00032,Get Remain,NovaTech,Electronics,Gaming,Germany,844.11,2054.18,58.91,4.0,91,2026-07-02
+PROD-00033,Mission Bad,ProGear,Sports,Equipment,Italy,786.49,1481.8,46.92,3.1,1723,2021-04-23
+PROD-00034,Thing Wall,HomeSphere,Home,Kitchen,Netherlands,166.3,207.92,20.02,4.3,502,2025-11-24
+PROD-00035,Success Color,Apex,Sports,Outdoor,China,474.96,956.43,50.34,4.8,513,2024-03-07
+PROD-00036,Section Talk,LuxeCare,Home,Appliances,Italy,377.69,701.22,46.14,4.5,1569,2024-01-16
+PROD-00037,Standard Husband,NovaTech,Electronics,Accessories,Germany,347.05,459.21,24.42,3.6,1170,2021-10-31
+PROD-00038,Usually Force,NovaTech,Electronics,Gaming,Netherlands,246.03,661.21,62.79,4.6,1415,2021-06-19
+PROD-00039,Commercial Rate,Vertex,Home,Furniture,France,951.94,2469.65,61.45,4.6,881,2026-03-15
+PROD-00040,Example Every,NovaTech,Fashion,Clothing,United Kingdom,283.92,746.17,61.95,4.1,1051,2025-11-18
+PROD-00041,Any Level,GlobalOne,Beauty,Personal Care,United States,1212.12,3192.42,62.03,3.6,1942,2025-12-13
+PROD-00042,Mean Respond,HomeSphere,Sports,Fitness,France,169.53,265.26,36.09,3.9,1527,2021-04-05
+PROD-00043,Son Position,NovaTech,Fashion,Footwear,Germany,1227.93,3164.58,61.2,3.0,350,2023-04-13
+PROD-00044,Take All,LuxeCare,Fashion,Luxury,Netherlands,768.57,1435.58,46.46,3.4,1376,2024-06-24
+PROD-00045,Several Cost,UrbanStyle,Fashion,Luxury,Netherlands,184.2,320.54,42.53,4.9,1621,2022-05-22
+PROD-00046,Under Someone,LuxeCare,Electronics,Gaming,Germany,488.19,991.06,50.74,4.4,468,2025-03-10
+PROD-00047,Executive Participant,UrbanStyle,Fashion,Clothing,United Kingdom,548.63,1511.39,63.7,4.9,1280,2024-04-13
+PROD-00048,Ever Exist,GlobalOne,Sports,Fitness,France,381.41,761.14,49.89,3.6,1129,2021-08-26
+PROD-00049,Weight Daughter,NovaTech,Sports,Fitness,France,430.84,542.44,20.57,4.2,534,2026-09-02
+PROD-00050,Art Investment,Vertex,Fashion,Footwear,France,756.51,970.12,22.02,3.6,269,2023-05-14
+PROD-00051,Teacher Kid,HomeSphere,Home,Kitchen,Netherlands,1362.86,2157.81,36.84,3.3,1769,2026-11-16
+PROD-00052,Notice Herself,Vertex,Electronics,Accessories,Italy,736.73,2045.93,63.99,3.5,437,2024-06-20
+PROD-00053,Ahead Box,Apex,Beauty,Personal Care,Germany,1009.84,2442.39,58.65,3.5,834,2021-08-02
+PROD-00054,Tv Away,Apex,Beauty,Skincare,Italy,1093.68,1956.0,44.09,4.3,526,2025-08-31
+PROD-00055,Physical Against,Apex,Sports,Equipment,China,952.13,1958.76,51.39,3.2,865,2026-07-26
+PROD-00056,Behind Not,LuxeCare,Electronics,Laptops,Germany,1253.78,2148.04,41.63,3.4,1536,2022-02-06
+PROD-00057,General Note,ProGear,Fashion,Luxury,United States,65.96,141.51,53.39,4.4,1420,2024-11-26
+PROD-00058,All Tax,Apex,Sports,Outdoor,United Kingdom,29.8,60.18,50.48,3.5,1420,2021-08-19
+PROD-00059,Produce Stuff,HomeSphere,Sports,Outdoor,United Kingdom,969.53,1433.92,32.39,4.4,807,2026-06-08
+PROD-00060,Former Protect,LuxeCare,Home,Appliances,France,583.17,1573.84,62.95,3.3,948,2024-04-21
+PROD-00061,Study Up,LuxeCare,Home,Furniture,United Kingdom,514.89,711.35,27.62,4.8,586,2025-02-19
+PROD-00062,See Painting,HomeSphere,Fashion,Footwear,France,1316.62,2123.32,37.99,4.3,1468,2024-10-18
+PROD-00063,Large I,ProGear,Sports,Equipment,China,1226.75,2561.85,52.11,4.1,372,2025-03-03
+PROD-00064,Sport Bag,LuxeCare,Fashion,Footwear,Italy,366.57,494.49,25.87,4.8,1105,2026-07-02
+PROD-00065,Summer Hear,GlobalOne,Electronics,Smartphones,United States,1351.12,2989.98,54.81,3.7,1160,2026-08-21
+PROD-00066,For Computer,GlobalOne,Sports,Outdoor,China,527.07,1244.69,57.65,4.8,1003,2023-05-28
+PROD-00067,Once Kid,HomeSphere,Electronics,Laptops,Germany,1331.19,3258.49,59.15,4.3,112,2025-04-16
+PROD-00068,Ten Medical,Vertex,Home,Appliances,Italy,130.79,190.77,31.44,4.8,557,2023-02-20
+PROD-00069,Plant Congress,NovaTech,Beauty,Cosmetics,France,911.61,1107.35,17.68,3.2,179,2023-11-05
+PROD-00070,While Maintain,UrbanStyle,Electronics,Accessories,France,996.94,1204.4,17.23,3.3,131,2025-01-25
+PROD-00071,Really Run,UrbanStyle,Beauty,Skincare,Germany,825.36,1904.13,56.65,4.3,1065,2021-04-27
+PROD-00072,Event Collection,Vertex,Electronics,Smartphones,Germany,340.28,796.08,57.26,3.5,1345,2024-10-13
+PROD-00073,Baby Evening,Vertex,Electronics,Accessories,United Kingdom,491.47,1176.77,58.24,4.3,670,2021-08-28
+PROD-00074,Drive Program,HomeSphere,Sports,Fitness,United States,1274.59,2870.61,55.6,4.1,136,2023-10-23
+PROD-00075,Agency Stop,HomeSphere,Electronics,Gaming,Germany,145.04,259.38,44.08,3.5,1445,2024-11-21
+PROD-00076,Enjoy Leave,NovaTech,Home,Furniture,United Kingdom,369.76,1019.36,63.73,3.8,637,2021-05-13
+PROD-00077,Out Thank,ProGear,Sports,Equipment,Italy,1338.61,2958.09,54.75,4.6,1184,2022-02-06
+PROD-00078,College Feel,Apex,Home,Furniture,Italy,756.44,1605.96,52.9,4.0,96,2024-02-20
+PROD-00079,System Company,Vertex,Beauty,Cosmetics,China,296.89,699.45,57.55,3.6,647,2022-12-31
+PROD-00080,Weight Image,LuxeCare,Fashion,Footwear,Italy,41.35,92.32,55.21,3.4,1341,2023-01-06
+PROD-00081,South Still,NovaTech,Beauty,Cosmetics,Italy,1410.99,3846.76,63.32,4.8,1586,2021-02-21
+PROD-00082,Something Save,UrbanStyle,Electronics,Accessories,United Kingdom,558.39,683.88,18.35,4.9,889,2021-03-28
+PROD-00083,Difficult Avoid,HomeSphere,Home,Appliances,Netherlands,645.14,1771.97,63.59,4.9,1513,2025-05-11
+PROD-00084,Series Factor,Apex,Fashion,Luxury,Netherlands,1280.25,2139.45,40.16,3.8,1698,2021-01-18
+PROD-00085,Customer White,Vertex,Fashion,Clothing,United States,1277.45,2180.7,41.42,3.3,1679,2025-10-07
+PROD-00086,As Behavior,LuxeCare,Home,Kitchen,United States,837.42,2259.23,62.93,4.4,1294,2024-06-24
+PROD-00087,Long Congress,HomeSphere,Electronics,Accessories,Netherlands,857.24,1161.97,26.23,4.2,760,2024-04-24
+PROD-00088,South Represent,Apex,Beauty,Personal Care,China,1485.13,2115.02,29.78,4.0,737,2021-10-13
+PROD-00089,Save Sense,Apex,Fashion,Clothing,Germany,1316.67,3140.56,58.08,4.4,1679,2026-08-13
+PROD-00090,Old Western,NovaTech,Fashion,Luxury,United States,1055.21,1873.19,43.67,3.6,107,2021-05-13
+PROD-00091,Always Song,Apex,Home,Kitchen,United Kingdom,1214.99,3032.84,59.94,4.7,1855,2021-06-13
+PROD-00092,Prove Close,Vertex,Beauty,Skincare,China,1370.29,2765.45,50.45,4.0,814,2021-09-12
+PROD-00093,New Add,NovaTech,Beauty,Skincare,United States,1198.45,2684.46,55.36,4.4,977,2023-11-08
+PROD-00094,Do Energy,Vertex,Home,Kitchen,United Kingdom,1194.71,3134.93,61.89,3.7,1883,2024-09-21
+PROD-00095,Me Point,Apex,Home,Appliances,United Kingdom,566.5,764.99,25.95,4.2,622,2022-11-24
+PROD-00096,Arm Organization,UrbanStyle,Beauty,Cosmetics,United Kingdom,58.73,114.23,48.59,4.1,905,2026-05-19
+PROD-00097,Apply Trouble,NovaTech,Beauty,Personal Care,France,433.38,929.74,53.39,3.1,138,2024-05-29
+PROD-00098,Ago My,Apex,Beauty,Personal Care,United States,60.84,153.08,60.26,3.7,183,2022-02-12
+PROD-00099,Operation Want,NovaTech,Fashion,Luxury,France,194.96,396.86,50.87,4.5,497,2022-05-02
+PROD-00100,Final Resource,Vertex,Electronics,Accessories,China,327.65,719.72,54.48,3.2,588,2023-02-26
+PROD-00101,Development Pull,UrbanStyle,Electronics,Gaming,Germany,82.26,168.65,51.22,4.1,104,2023-01-17
+PROD-00102,Movement Country,HomeSphere,Electronics,Laptops,Germany,957.96,2262.46,57.66,5.0,1762,2025-02-08
+PROD-00103,Court Ten,UrbanStyle,Beauty,Cosmetics,United Kingdom,776.87,1333.68,41.75,4.6,1238,2024-03-07
+PROD-00104,International Argue,GlobalOne,Home,Kitchen,Germany,409.89,779.76,47.43,3.2,1406,2025-01-26
+PROD-00105,Admit Drive,HomeSphere,Sports,Fitness,China,42.9,117.56,63.51,4.7,24,2021-04-01
+PROD-00106,Church Most,Vertex,Electronics,Accessories,Netherlands,1045.48,1938.66,46.07,3.3,1473,2022-04-11
+PROD-00107,Information Source,UrbanStyle,Sports,Fitness,Germany,238.87,382.28,37.51,4.1,719,2024-08-31
+PROD-00108,Firm Maintain,GlobalOne,Home,Furniture,United States,1073.32,2421.75,55.68,3.6,134,2025-03-22
+PROD-00109,Staff How,Apex,Electronics,Gaming,United States,1432.52,3410.31,57.99,4.1,1384,2023-04-07
+PROD-00110,Often Few,LuxeCare,Fashion,Clothing,China,919.52,1720.75,46.56,3.5,1982,2021-06-12
+PROD-00111,Last Effort,LuxeCare,Electronics,Accessories,Germany,537.18,1295.98,58.55,3.0,1310,2023-02-20
+PROD-00112,Think Other,ProGear,Home,Furniture,United Kingdom,178.53,227.38,21.48,3.1,577,2021-10-05
+PROD-00113,Out I,Apex,Beauty,Personal Care,Germany,1283.91,2986.19,57.01,3.9,542,2024-08-30
+PROD-00114,Dog Their,Apex,Beauty,Personal Care,United Kingdom,151.26,300.49,49.66,3.9,1193,2026-04-05
+PROD-00115,Account Probably,HomeSphere,Fashion,Luxury,Italy,263.94,499.95,47.21,3.8,541,2026-05-02
+PROD-00116,Television Understand,GlobalOne,Sports,Fitness,United Kingdom,925.7,2051.49,54.88,3.1,162,2023-08-08
+PROD-00117,Them Can,HomeSphere,Home,Furniture,United States,565.05,1243.89,54.57,4.0,1629,2023-05-05
+PROD-00118,Successful Turn,Vertex,Home,Kitchen,United Kingdom,1285.45,2897.29,55.63,3.3,201,2026-10-23
+PROD-00119,Become Director,Apex,Fashion,Clothing,China,110.5,246.18,55.11,3.1,779,2025-11-05
+PROD-00120,Catch Real,ProGear,Beauty,Personal Care,United Kingdom,880.73,2381.82,63.02,4.2,352,2021-10-03
+PROD-00121,Nothing Understand,HomeSphere,Beauty,Personal Care,Germany,585.31,1304.81,55.14,3.9,754,2024-09-12
+PROD-00122,Hair Listen,Apex,Fashion,Clothing,Netherlands,820.7,2221.1,63.05,3.8,56,2026-08-21
+PROD-00123,Paper Firm,HomeSphere,Fashion,Clothing,Germany,1441.98,3819.17,62.24,3.4,1103,2024-02-09
+PROD-00124,Bar To,ProGear,Electronics,Gaming,China,108.7,147.97,26.54,3.0,322,2021-08-19
+PROD-00125,These Music,Apex,Electronics,Laptops,France,146.19,335.19,56.39,3.1,1067,2025-06-24
+PROD-00126,How Price,Vertex,Electronics,Smartphones,United Kingdom,481.87,1229.64,60.81,3.0,751,2021-09-25
+PROD-00127,Response Want,NovaTech,Electronics,Laptops,Italy,1222.63,2018.52,39.43,3.2,898,2024-10-20
+PROD-00128,Situation Result,UrbanStyle,Home,Kitchen,Germany,1046.62,2309.17,54.68,4.8,473,2021-03-17
+PROD-00129,Option Stuff,HomeSphere,Beauty,Cosmetics,Netherlands,1103.93,2743.89,59.77,3.6,1337,2023-05-14
+PROD-00130,Condition Protect,HomeSphere,Electronics,Accessories,China,270.27,648.91,58.35,4.6,1687,2021-03-31
+PROD-00131,Parent Each,Vertex,Home,Kitchen,Netherlands,1485.81,2763.89,46.24,3.7,341,2023-08-11
+PROD-00132,Republican Hotel,HomeSphere,Sports,Fitness,Germany,1165.74,2034.55,42.7,4.9,308,2023-10-18
+PROD-00133,Guess Low,UrbanStyle,Fashion,Footwear,China,1288.33,2430.29,46.99,4.5,446,2025-01-07
+PROD-00134,Back Popular,UrbanStyle,Beauty,Personal Care,United Kingdom,1133.04,1546.6,26.74,4.8,1466,2025-07-18
+PROD-00135,Quite Treatment,ProGear,Electronics,Laptops,Italy,760.35,1917.86,60.35,3.6,759,2022-08-25
+PROD-00136,Assume Include,HomeSphere,Fashion,Footwear,United Kingdom,1343.81,2449.39,45.14,3.0,114,2023-07-14
+PROD-00137,Test Art,GlobalOne,Beauty,Cosmetics,United Kingdom,1358.55,1828.69,25.71,3.6,1229,2021-09-01
+PROD-00138,Dream Government,GlobalOne,Sports,Fitness,China,1425.34,3878.31,63.25,4.1,1029,2024-10-31
+PROD-00139,Likely Poor,HomeSphere,Home,Kitchen,Netherlands,949.6,1820.87,47.85,3.6,1743,2023-10-14
+PROD-00140,Attorney Order,UrbanStyle,Beauty,Personal Care,China,496.35,1129.71,56.06,4.5,798,2021-01-05
+PROD-00141,Allow Behind,HomeSphere,Electronics,Smartphones,Netherlands,1188.41,2927.52,59.41,3.2,1654,2024-09-14
+PROD-00142,Who Those,HomeSphere,Electronics,Laptops,Italy,744.16,961.52,22.61,4.1,296,2021-03-30
+PROD-00143,Brother Energy,ProGear,Sports,Equipment,France,665.09,1742.75,61.84,3.7,509,2026-12-07
+PROD-00144,Drop Pull,NovaTech,Home,Kitchen,Italy,180.02,257.21,30.01,4.5,1539,2024-08-11
+PROD-00145,Sea Ability,UrbanStyle,Beauty,Cosmetics,Germany,929.24,1265.44,26.57,3.2,1470,2026-06-23
+PROD-00146,Organization Idea,GlobalOne,Beauty,Cosmetics,Italy,1052.95,1386.13,24.04,4.6,1212,2021-07-09
+PROD-00147,Be Wait,GlobalOne,Beauty,Personal Care,Germany,1060.83,1411.07,24.82,3.2,418,2026-04-21
+PROD-00148,Last Vote,HomeSphere,Beauty,Cosmetics,United States,1480.03,2662.33,44.41,3.7,1503,2021-12-20
+PROD-00149,Or Together,Apex,Beauty,Skincare,Netherlands,1220.14,3313.41,63.18,5.0,1461,2021-03-10
+PROD-00150,Out Kid,ProGear,Home,Furniture,United Kingdom,1131.3,2038.62,44.51,3.2,203,2024-11-23
+PROD-00151,Too Product,NovaTech,Beauty,Personal Care,United States,1166.83,2442.7,52.23,3.8,1402,2024-06-15
+PROD-00152,Serve Until,Apex,Electronics,Accessories,Netherlands,1360.0,1873.97,27.43,4.0,1313,2021-04-22
+PROD-00153,Project Little,Apex,Electronics,Laptops,France,21.97,42.84,48.72,3.1,479,2022-03-01
+PROD-00154,Light Prove,GlobalOne,Sports,Fitness,Germany,182.63,253.5,27.96,4.3,853,2022-09-17
+PROD-00155,Cup Alone,ProGear,Sports,Equipment,United Kingdom,1120.34,2390.12,53.13,4.9,1643,2024-01-14
+PROD-00156,Put However,ProGear,Fashion,Footwear,France,565.43,937.0,39.66,4.7,1116,2026-02-14
+PROD-00157,Under Senior,NovaTech,Electronics,Smartphones,Netherlands,339.28,930.02,63.52,3.0,1889,2024-06-27
+PROD-00158,Themselves Current,ProGear,Fashion,Clothing,Italy,1454.97,1846.44,21.2,4.8,1222,2021-04-20
+PROD-00159,Painting Take,Vertex,Home,Appliances,France,793.91,2214.01,64.14,3.1,1213,2023-01-20
+PROD-00160,Fight Probably,Vertex,Sports,Outdoor,China,833.01,2291.51,63.65,4.0,547,2022-02-24
+PROD-00161,Short Turn,HomeSphere,Fashion,Luxury,Netherlands,945.95,2188.17,56.77,3.9,1033,2021-02-11
+PROD-00162,Agreement Probably,HomeSphere,Home,Kitchen,Netherlands,943.2,2013.64,53.16,4.8,1283,2026-02-26
+PROD-00163,Court Adult,ProGear,Home,Kitchen,United States,72.94,120.32,39.38,4.9,1922,2025-06-20
+PROD-00164,Center Yourself,NovaTech,Sports,Outdoor,United States,1335.94,2577.1,48.16,4.2,113,2024-10-07
+PROD-00165,Speech Term,GlobalOne,Beauty,Cosmetics,Germany,419.68,629.94,33.38,3.9,895,2025-12-22
+PROD-00166,Sign Condition,Vertex,Electronics,Accessories,United States,533.26,1137.9,53.14,3.2,388,2023-08-21
+PROD-00167,Environmental Performance,ProGear,Sports,Outdoor,United States,1461.72,4060.57,64.0,4.4,172,2022-10-03
+PROD-00168,Drop From,NovaTech,Electronics,Gaming,United Kingdom,806.46,1367.15,41.01,4.6,337,2026-11-25
+PROD-00169,Father Knowledge,LuxeCare,Beauty,Personal Care,France,1028.67,1502.05,31.52,4.8,777,2025-04-11
+PROD-00170,Door Situation,LuxeCare,Sports,Outdoor,United States,1234.69,3357.96,63.23,4.5,1518,2021-06-27
+PROD-00171,Effect Appear,Apex,Fashion,Clothing,United Kingdom,922.06,1723.5,46.5,4.9,1345,2022-03-15
+PROD-00172,Environment Near,Apex,Electronics,Gaming,France,1299.77,1653.76,21.41,3.1,129,2025-06-20
+PROD-00173,Huge Full,LuxeCare,Home,Furniture,Germany,567.81,1417.76,59.95,5.0,190,2024-08-12
+PROD-00174,Reality Hear,ProGear,Fashion,Clothing,Italy,229.87,494.36,53.5,3.8,1795,2025-09-30
+PROD-00175,Activity About,NovaTech,Sports,Outdoor,Italy,1455.02,3706.5,60.74,4.7,1392,2023-06-21
+PROD-00176,Building Report,UrbanStyle,Beauty,Cosmetics,China,705.7,1315.22,46.34,3.5,742,2021-10-10
+PROD-00177,Chance Culture,Apex,Electronics,Smartphones,Germany,89.28,230.66,61.29,4.6,162,2024-08-17
+PROD-00178,Member Trouble,LuxeCare,Electronics,Accessories,Italy,1499.58,4190.75,64.22,4.1,817,2023-04-02
+PROD-00179,Wind Of,Vertex,Home,Kitchen,United States,1154.64,3130.95,63.12,4.7,1243,2026-12-18
+PROD-00180,Measure Responsibility,UrbanStyle,Electronics,Smartphones,United States,374.79,719.92,47.94,3.3,313,2026-04-07
+PROD-00181,Strategy Water,HomeSphere,Beauty,Personal Care,France,1431.31,3105.77,53.91,3.5,335,2022-03-25
+PROD-00182,Cup Court,UrbanStyle,Home,Appliances,Germany,1009.19,2209.12,54.32,3.7,1095,2025-12-02
+PROD-00183,Service Mention,Vertex,Fashion,Luxury,Italy,174.77,397.52,56.03,4.0,1694,2023-04-10
+PROD-00184,Her Thing,Apex,Beauty,Personal Care,Germany,1159.62,2356.65,50.79,4.7,578,2021-07-24
+PROD-00185,Type Story,HomeSphere,Beauty,Skincare,China,830.1,1741.14,52.32,4.8,436,2022-09-29
+PROD-00186,Southern Might,LuxeCare,Fashion,Footwear,France,608.21,860.27,29.3,3.1,349,2024-01-13
+PROD-00187,Action Thought,GlobalOne,Home,Kitchen,Germany,1133.93,2486.14,54.39,4.4,1031,2026-10-04
+PROD-00188,Describe Throw,NovaTech,Home,Furniture,United Kingdom,323.38,458.62,29.49,3.0,154,2024-05-25
+PROD-00189,Trade Future,UrbanStyle,Electronics,Gaming,United Kingdom,529.13,1134.39,53.36,3.8,1054,2026-12-03
+PROD-00190,Trade Long,ProGear,Fashion,Luxury,Italy,659.03,1744.22,62.22,3.7,1935,2021-10-09
+PROD-00191,Soon So,ProGear,Fashion,Footwear,Germany,773.41,1897.83,59.25,3.8,1879,2023-07-13
+PROD-00192,Garden Area,Vertex,Home,Furniture,United States,935.02,2412.15,61.24,4.9,283,2025-11-24
+PROD-00193,With Television,LuxeCare,Fashion,Luxury,United Kingdom,224.87,603.22,62.72,4.0,1062,2025-03-19
+PROD-00194,Also Pull,ProGear,Home,Kitchen,Germany,391.08,756.59,48.31,5.0,1473,2024-06-13
+PROD-00195,First Woman,NovaTech,Home,Furniture,Netherlands,741.46,1279.76,42.06,4.3,1238,2022-03-18
+PROD-00196,Or Weight,ProGear,Home,Appliances,Netherlands,364.02,481.01,24.32,3.3,1130,2022-11-25
+PROD-00197,House Must,GlobalOne,Fashion,Footwear,United States,196.43,283.46,30.7,3.3,1262,2021-09-16
+PROD-00198,All Relate,ProGear,Home,Appliances,France,963.11,1436.0,32.93,3.7,1075,2025-10-26
+PROD-00199,Suffer Benefit,HomeSphere,Electronics,Laptops,Germany,1345.7,2635.34,48.94,4.3,1606,2022-09-17
+PROD-00200,Would Family,Apex,Electronics,Laptops,United States,262.62,395.94,33.67,3.1,1381,2023-04-29
+PROD-00201,Source Off,Apex,Sports,Outdoor,Italy,257.56,423.88,39.24,3.4,136,2023-01-14
+PROD-00202,Bring Hot,UrbanStyle,Home,Furniture,Germany,137.61,191.69,28.21,3.9,1246,2021-02-26
+PROD-00203,Create Season,ProGear,Sports,Outdoor,France,313.47,558.86,43.91,4.0,1501,2026-12-13
+PROD-00204,Town Management,LuxeCare,Sports,Outdoor,Germany,1037.14,1309.8,20.82,4.6,1145,2026-02-20
+PROD-00205,Debate Mention,UrbanStyle,Electronics,Gaming,France,943.71,1255.9,24.86,4.7,559,2023-08-18
+PROD-00206,Relationship Teach,HomeSphere,Sports,Equipment,United States,1381.7,1793.07,22.94,3.6,1789,2021-12-30
+PROD-00207,Property Local,GlobalOne,Beauty,Skincare,United Kingdom,1210.27,2901.28,58.28,3.4,1215,2023-02-14
+PROD-00208,Million Person,NovaTech,Beauty,Personal Care,China,317.98,570.06,44.22,4.0,1068,2025-06-16
+PROD-00209,Prevent Member,NovaTech,Electronics,Smartphones,United Kingdom,929.29,1663.67,44.14,3.9,597,2021-03-26
+PROD-00210,Couple Teach,UrbanStyle,Home,Appliances,United Kingdom,1122.47,1412.85,20.55,3.5,1026,2026-11-26
+PROD-00211,Pattern To,Vertex,Home,Furniture,United States,1071.46,2820.44,62.01,4.0,1810,2026-10-20
+PROD-00212,Capital Nature,GlobalOne,Beauty,Skincare,Germany,800.51,1097.88,27.09,3.9,306,2023-04-20
+PROD-00213,Bank Keep,UrbanStyle,Home,Furniture,China,801.26,1272.36,37.03,3.5,1787,2022-03-19
+PROD-00214,Certainly Performance,LuxeCare,Home,Furniture,France,569.04,701.12,18.84,3.6,410,2022-04-18
+PROD-00215,Its Bar,HomeSphere,Beauty,Personal Care,Italy,321.11,553.59,41.99,3.2,447,2022-10-23
+PROD-00216,Tv Produce,ProGear,Electronics,Laptops,United States,1336.34,2872.79,53.48,4.4,822,2022-04-28
+PROD-00217,Child Example,Vertex,Home,Kitchen,Germany,1184.81,2366.67,49.94,3.2,220,2021-11-18
+PROD-00218,Upon Reflect,HomeSphere,Home,Kitchen,Germany,807.97,1728.2,53.25,4.5,865,2024-07-15
+PROD-00219,Nation Appear,LuxeCare,Home,Appliances,United Kingdom,650.33,913.15,28.78,3.6,550,2022-04-15
+PROD-00220,Fish Shake,Vertex,Beauty,Cosmetics,Netherlands,547.81,1223.52,55.23,4.1,707,2023-05-11
+PROD-00221,Successful Head,ProGear,Sports,Fitness,China,537.36,1493.01,64.01,4.2,196,2026-05-25
+PROD-00222,Impact Eye,NovaTech,Beauty,Personal Care,Netherlands,359.65,490.15,26.62,3.3,1496,2024-02-06
+PROD-00223,Community Why,HomeSphere,Fashion,Luxury,United States,372.71,543.07,31.37,3.4,507,2026-09-01
+PROD-00224,Appear Forward,LuxeCare,Home,Appliances,United Kingdom,431.22,637.08,32.31,4.8,748,2024-07-04
+PROD-00225,Quality Sport,UrbanStyle,Beauty,Skincare,Germany,124.95,254.8,50.96,3.8,1105,2023-04-13
+PROD-00226,Major President,NovaTech,Home,Furniture,Italy,1473.66,2032.56,27.5,3.8,36,2023-01-11
+PROD-00227,Century Wear,HomeSphere,Beauty,Cosmetics,United States,1454.36,3759.25,61.31,4.6,701,2025-12-23
+PROD-00228,Marriage Trial,Apex,Electronics,Accessories,Italy,390.56,575.46,32.13,4.3,1330,2026-10-24
+PROD-00229,Part Travel,LuxeCare,Electronics,Accessories,China,1394.42,2915.48,52.17,4.1,1034,2026-10-23
+PROD-00230,Tax Past,UrbanStyle,Sports,Outdoor,China,423.57,1029.78,58.87,3.4,533,2026-04-19
+PROD-00231,Personal Pattern,ProGear,Sports,Outdoor,Netherlands,488.9,919.47,46.83,4.0,1857,2026-04-13
+PROD-00232,Money Outside,UrbanStyle,Home,Furniture,Italy,367.4,508.39,27.73,4.2,1240,2026-04-10
+PROD-00233,Glass That,ProGear,Beauty,Cosmetics,Italy,436.5,929.74,53.05,3.3,1469,2023-03-02
+PROD-00234,Most Wall,ProGear,Sports,Fitness,United States,724.3,1486.37,51.27,3.1,1453,2021-02-24
+PROD-00235,Certainly Scene,Apex,Home,Appliances,Italy,508.22,719.16,29.33,3.1,1724,2026-04-10
+PROD-00236,Themselves Body,NovaTech,Sports,Fitness,United States,1484.99,2547.9,41.72,4.6,1130,2025-06-25
+PROD-00237,Able Benefit,UrbanStyle,Home,Appliances,Netherlands,385.69,883.39,56.34,4.5,1906,2021-03-25
+PROD-00238,Write Light,Apex,Fashion,Footwear,Germany,895.48,1750.24,48.84,3.8,317,2025-11-03
+PROD-00239,Short Newspaper,Vertex,Beauty,Personal Care,United Kingdom,526.56,1415.0,62.79,4.7,1339,2023-10-27
+PROD-00240,One Claim,UrbanStyle,Electronics,Smartphones,Netherlands,1447.72,2025.18,28.51,4.5,1074,2024-07-26
+PROD-00241,Final Despite,GlobalOne,Sports,Equipment,United Kingdom,1407.82,2097.61,32.88,3.1,1236,2026-08-15
+PROD-00242,College Republican,Apex,Home,Furniture,Italy,1112.98,2358.58,52.81,4.7,1898,2021-03-13
+PROD-00243,Above While,GlobalOne,Home,Appliances,Germany,213.96,529.0,59.55,3.4,1857,2024-09-05
+PROD-00244,Against Girl,GlobalOne,Electronics,Smartphones,China,249.67,365.22,31.64,4.6,721,2024-05-28
+PROD-00245,Piece Data,Apex,Fashion,Clothing,Italy,999.47,2035.83,50.91,3.7,456,2024-09-02
+PROD-00246,Glass Different,ProGear,Sports,Equipment,Italy,1316.41,2406.28,45.29,4.6,84,2025-06-08
+PROD-00247,Apply Art,NovaTech,Sports,Fitness,United States,661.51,1192.78,44.54,3.9,247,2021-09-23
+PROD-00248,Read Every,LuxeCare,Beauty,Personal Care,Italy,455.56,1091.6,58.27,4.0,1589,2026-07-21
+PROD-00249,Floor Simply,Vertex,Sports,Outdoor,China,352.16,929.46,62.11,3.8,986,2021-01-18
+PROD-00250,War Role,GlobalOne,Sports,Outdoor,China,817.61,2166.96,62.27,4.2,1346,2021-05-25
+PROD-00251,Collection Professor,Vertex,Home,Appliances,Netherlands,179.76,486.02,63.01,4.3,1403,2024-12-04
+PROD-00252,Safe Major,LuxeCare,Electronics,Accessories,Netherlands,505.68,719.5,29.72,4.6,1241,2026-05-16
+PROD-00253,Suffer Within,NovaTech,Beauty,Skincare,China,932.01,1913.92,51.3,4.8,1490,2023-10-26
+PROD-00254,Wonder Benefit,Vertex,Beauty,Personal Care,Netherlands,1183.95,1708.06,30.68,3.6,1418,2021-06-14
+PROD-00255,Push For,Vertex,Electronics,Accessories,Netherlands,376.49,899.93,58.16,3.1,368,2021-08-27
+PROD-00256,Himself Wish,ProGear,Fashion,Luxury,Italy,856.99,2073.86,58.68,4.8,699,2025-06-23
+PROD-00257,Write Water,ProGear,Electronics,Smartphones,United States,516.41,1298.26,60.22,3.2,1377,2022-06-06
+PROD-00258,Politics Process,Apex,Beauty,Cosmetics,Germany,1270.45,1783.69,28.77,3.8,1617,2026-08-02
+PROD-00259,Weight Morning,NovaTech,Sports,Fitness,France,1196.96,1723.46,30.55,3.5,1023,2026-01-26
+PROD-00260,Move Easy,HomeSphere,Electronics,Laptops,Italy,1084.77,2551.44,57.48,4.3,653,2023-01-28
+PROD-00261,Head Simply,ProGear,Beauty,Personal Care,China,1042.45,2156.16,51.65,3.5,1702,2026-05-17
+PROD-00262,Together Father,LuxeCare,Electronics,Smartphones,France,521.82,777.8,32.91,4.8,1488,2023-09-17
+PROD-00263,Parent Heart,ProGear,Electronics,Accessories,Netherlands,877.17,1615.19,45.69,3.9,168,2026-09-25
+PROD-00264,Head Feeling,Apex,Beauty,Cosmetics,Italy,1421.19,2054.13,30.81,4.2,1772,2024-02-10
+PROD-00265,Story Carry,HomeSphere,Sports,Fitness,Italy,761.3,1658.36,54.09,3.0,1102,2024-12-21
+PROD-00266,Scientist Good,Apex,Fashion,Clothing,Italy,1308.83,3522.57,62.84,4.1,1235,2024-05-03
+PROD-00267,Account Tonight,ProGear,Beauty,Cosmetics,France,1046.49,2800.41,62.63,4.4,727,2025-12-12
+PROD-00268,Culture Clear,GlobalOne,Home,Kitchen,Netherlands,233.05,494.55,52.88,4.2,1068,2026-09-07
+PROD-00269,Realize None,Apex,Fashion,Footwear,Italy,639.08,1519.93,57.95,4.9,485,2024-08-11
+PROD-00270,Card General,Apex,Home,Kitchen,Germany,1388.72,2668.21,47.95,3.2,416,2021-03-11
+PROD-00271,Do May,HomeSphere,Sports,Fitness,Italy,1477.34,3755.75,60.66,3.2,1618,2022-11-07
+PROD-00272,Ready Identify,HomeSphere,Fashion,Footwear,Netherlands,1381.66,3581.03,61.42,4.0,1737,2026-03-23
+PROD-00273,Three Message,ProGear,Electronics,Smartphones,United Kingdom,888.96,1634.27,45.61,3.1,1014,2024-11-05
+PROD-00274,Stock Really,ProGear,Beauty,Cosmetics,France,506.12,1257.49,59.75,3.0,1666,2026-04-28
+PROD-00275,Fire Campaign,HomeSphere,Electronics,Gaming,Italy,503.58,925.11,45.57,4.1,646,2025-10-01
+PROD-00276,Create Black,LuxeCare,Sports,Fitness,China,1380.18,2421.05,42.99,3.7,939,2026-10-05
+PROD-00277,Voice Ahead,Apex,Fashion,Clothing,China,1107.56,2130.45,48.01,3.4,1150,2021-01-07
+PROD-00278,Hard Group,NovaTech,Fashion,Clothing,United Kingdom,681.4,971.25,29.84,3.4,1343,2024-06-03
+PROD-00279,Management Future,UrbanStyle,Home,Kitchen,Italy,750.06,1402.82,46.53,4.8,1360,2023-12-27
+PROD-00280,College Thought,Vertex,Home,Kitchen,Italy,546.78,1164.06,53.03,4.3,1958,2026-12-13
+PROD-00281,Others Avoid,LuxeCare,Fashion,Footwear,Netherlands,24.58,55.59,55.78,3.4,779,2024-12-12
+PROD-00282,Both Black,UrbanStyle,Home,Furniture,United Kingdom,1441.8,2073.11,30.45,3.8,1778,2026-04-25
+PROD-00283,More System,UrbanStyle,Sports,Fitness,Netherlands,132.6,370.62,64.22,4.0,422,2021-02-05
+PROD-00284,Establish American,Vertex,Sports,Outdoor,United Kingdom,895.1,1170.18,23.51,4.5,1092,2026-09-24
+PROD-00285,Leader Purpose,ProGear,Electronics,Gaming,United States,318.81,840.67,62.08,3.4,1848,2023-05-18
+PROD-00286,Maybe Tv,LuxeCare,Home,Kitchen,United States,290.08,365.06,20.54,3.9,1239,2024-12-10
+PROD-00287,Control Ago,HomeSphere,Sports,Fitness,United Kingdom,849.44,1108.63,23.38,4.6,1284,2022-04-11
+PROD-00288,Theory Box,UrbanStyle,Beauty,Cosmetics,Germany,682.67,1391.98,50.96,3.9,717,2021-06-06
+PROD-00289,We Beyond,GlobalOne,Sports,Equipment,France,604.14,1265.93,52.28,3.3,1566,2026-09-29
+PROD-00290,Great Radio,HomeSphere,Electronics,Smartphones,Netherlands,276.98,714.29,61.22,4.9,1248,2024-11-06
+PROD-00291,Southern Almost,LuxeCare,Home,Kitchen,Netherlands,563.1,919.65,38.77,4.3,658,2023-01-22
+PROD-00292,Travel Real,LuxeCare,Home,Appliances,United States,616.06,764.3,19.4,3.3,125,2026-02-28
+PROD-00293,Stuff Medical,GlobalOne,Beauty,Personal Care,France,1075.38,2424.21,55.64,3.1,650,2026-06-08
+PROD-00294,Partner Effort,LuxeCare,Electronics,Smartphones,France,336.85,528.76,36.29,4.3,1484,2023-05-25
+PROD-00295,World Be,Apex,Home,Furniture,United States,34.47,47.11,26.83,4.6,808,2025-10-29
+PROD-00296,Family About,ProGear,Fashion,Clothing,Netherlands,271.92,610.3,55.44,3.5,1749,2023-03-15
+PROD-00297,Staff Owner,Vertex,Fashion,Luxury,Germany,153.66,244.18,37.07,4.4,850,2021-05-28
+PROD-00298,Follow Else,LuxeCare,Home,Kitchen,Netherlands,1284.27,3247.09,60.45,3.8,330,2021-11-08
+PROD-00299,Nearly Beat,GlobalOne,Fashion,Clothing,Netherlands,1003.79,1533.77,34.55,3.6,1890,2026-12-30
+PROD-00300,Full Rich,GlobalOne,Home,Kitchen,France,1345.02,1642.0,18.09,3.2,761,2021-12-13
+PROD-00301,Tv Sit,GlobalOne,Beauty,Skincare,Italy,315.79,392.35,19.51,3.4,610,2026-03-29
+PROD-00302,Nice Message,ProGear,Home,Furniture,China,876.65,1643.09,46.65,4.8,1481,2022-05-01
+PROD-00303,Away Paper,Vertex,Sports,Outdoor,Italy,1227.08,2143.6,42.76,3.5,568,2021-03-05
+PROD-00304,Report Free,NovaTech,Home,Appliances,France,572.64,1228.01,53.37,3.5,524,2022-04-14
+PROD-00305,Certainly Call,GlobalOne,Home,Kitchen,Italy,938.1,1740.23,46.09,4.1,1370,2024-11-12
+PROD-00306,Car Indeed,LuxeCare,Sports,Equipment,Italy,657.01,1097.96,40.16,4.9,1558,2021-08-07
+PROD-00307,Himself East,GlobalOne,Beauty,Personal Care,China,1146.59,1632.95,29.78,4.7,638,2025-09-09
+PROD-00308,Enough Decade,UrbanStyle,Home,Appliances,China,733.71,1930.6,62.0,4.6,997,2025-09-08
+PROD-00309,Teacher Begin,Apex,Fashion,Clothing,Germany,640.69,791.86,19.09,3.5,76,2024-09-06
+PROD-00310,Budget Participant,Apex,Electronics,Accessories,United Kingdom,814.74,1803.48,54.82,3.5,1524,2024-05-30
+PROD-00311,Again Road,ProGear,Electronics,Gaming,China,213.34,541.01,60.57,5.0,177,2026-05-29
+PROD-00312,Information Magazine,Vertex,Home,Appliances,United Kingdom,790.91,1166.34,32.19,3.5,1003,2024-12-10
+PROD-00313,Understand However,HomeSphere,Fashion,Luxury,United States,32.49,86.52,62.45,3.2,1049,2025-03-14
+PROD-00314,Country Movement,LuxeCare,Electronics,Smartphones,United Kingdom,866.89,1420.39,38.97,4.1,1689,2024-07-16
+PROD-00315,Tv Ahead,LuxeCare,Beauty,Cosmetics,Germany,978.87,2474.18,60.44,3.4,34,2022-11-15
+PROD-00316,Stand Affect,HomeSphere,Beauty,Personal Care,Italy,21.44,30.42,29.52,4.8,189,2021-07-15
+PROD-00317,Not Like,UrbanStyle,Fashion,Luxury,United States,1311.47,2827.35,53.61,4.2,1597,2021-08-11
+PROD-00318,Bank Other,UrbanStyle,Home,Appliances,Italy,999.23,1479.45,32.46,4.8,1983,2026-04-29
+PROD-00319,Laugh Help,HomeSphere,Beauty,Skincare,Italy,631.06,1144.13,44.84,4.0,531,2026-10-10
+PROD-00320,Particularly With,ProGear,Fashion,Luxury,France,75.21,110.26,31.79,4.5,1596,2026-07-30
+PROD-00321,Suddenly Fill,Apex,Electronics,Accessories,Germany,128.78,278.81,53.81,3.5,1184,2021-03-29
+PROD-00322,What Fight,LuxeCare,Sports,Equipment,United States,587.0,975.54,39.83,3.7,117,2022-02-22
+PROD-00323,Rather Certainly,UrbanStyle,Sports,Outdoor,Italy,1079.97,1809.38,40.31,4.1,1014,2023-05-16
+PROD-00324,Foreign Be,Apex,Sports,Equipment,Netherlands,716.7,1621.08,55.79,4.9,134,2021-07-05
+PROD-00325,Always If,NovaTech,Sports,Outdoor,Italy,1100.2,1698.6,35.23,3.1,1430,2026-10-16
+PROD-00326,Quickly Forget,UrbanStyle,Fashion,Footwear,United Kingdom,397.08,854.57,53.53,3.1,1508,2024-01-21
+PROD-00327,Administration Political,NovaTech,Sports,Equipment,China,747.07,1609.9,53.6,3.7,602,2025-11-18
+PROD-00328,Level Right,Vertex,Sports,Equipment,United States,1157.51,1586.43,27.04,3.2,47,2022-04-17
+PROD-00329,Society Attorney,HomeSphere,Sports,Fitness,United Kingdom,1093.64,2179.39,49.82,4.4,307,2023-05-22
+PROD-00330,Office Particular,ProGear,Fashion,Luxury,France,655.07,1044.34,37.27,4.6,1593,2025-08-29
+PROD-00331,Present Second,LuxeCare,Electronics,Accessories,United Kingdom,1200.13,2774.12,56.74,3.5,896,2024-03-10
+PROD-00332,Sell Close,NovaTech,Beauty,Cosmetics,Italy,887.39,1577.39,43.74,3.2,905,2026-11-14
+PROD-00333,Customer Country,HomeSphere,Sports,Equipment,Germany,1376.38,1952.96,29.52,4.9,1619,2021-02-19
+PROD-00334,Happy Anyone,LuxeCare,Sports,Outdoor,Netherlands,671.78,1005.13,33.16,4.1,959,2026-01-17
+PROD-00335,Style Brother,UrbanStyle,Electronics,Gaming,France,1310.05,3106.86,57.83,4.6,458,2022-11-27
+PROD-00336,Drop Conference,Apex,Beauty,Personal Care,United States,989.88,2284.29,56.67,4.7,742,2026-02-28
+PROD-00337,Pretty Something,Apex,Sports,Equipment,Italy,378.25,750.1,49.57,3.4,1510,2024-11-02
+PROD-00338,Every Administration,Vertex,Electronics,Smartphones,United Kingdom,1481.56,4015.76,63.11,3.1,317,2023-07-19
+PROD-00339,Body Possible,NovaTech,Fashion,Clothing,Italy,1059.83,2840.77,62.69,3.4,1387,2021-12-20
+PROD-00340,Specific Effect,ProGear,Fashion,Footwear,France,854.08,2275.94,62.47,3.1,845,2021-09-23
+PROD-00341,Hair Environmental,UrbanStyle,Fashion,Clothing,Germany,1047.64,1755.59,40.33,4.8,1401,2023-09-08
+PROD-00342,Civil Respond,Vertex,Electronics,Accessories,Germany,1456.73,3948.94,63.11,3.9,165,2021-09-19
+PROD-00343,Reason Necessary,NovaTech,Sports,Equipment,United States,1293.75,3300.72,60.8,3.6,1737,2024-02-27
+PROD-00344,Success Should,HomeSphere,Electronics,Smartphones,United Kingdom,1244.23,1566.75,20.59,4.2,1228,2023-04-07
+PROD-00345,Decade Guy,Vertex,Sports,Fitness,Germany,348.86,485.93,28.21,3.2,869,2026-10-09
+PROD-00346,As Democratic,Apex,Electronics,Gaming,France,1045.95,1823.93,42.65,4.4,56,2025-04-16
+PROD-00347,Think Defense,UrbanStyle,Fashion,Luxury,United Kingdom,102.71,175.07,41.33,4.1,868,2024-09-23
+PROD-00348,Reason Rock,HomeSphere,Fashion,Footwear,Italy,1187.13,2030.0,41.52,4.3,286,2024-11-26
+PROD-00349,Building Between,Apex,Electronics,Smartphones,China,1329.54,2905.55,54.24,3.5,1778,2025-03-30
+PROD-00350,Seat Ball,Vertex,Beauty,Skincare,Germany,41.48,107.52,61.42,3.0,67,2023-07-27
+PROD-00351,National Responsibility,GlobalOne,Beauty,Cosmetics,United Kingdom,1312.68,2686.14,51.13,4.9,1362,2021-12-11
+PROD-00352,Low Figure,ProGear,Sports,Fitness,Germany,1199.18,3353.74,64.24,3.7,1693,2024-09-23
+PROD-00353,First Industry,NovaTech,Sports,Fitness,Italy,1151.95,2123.15,45.74,4.0,1608,2021-07-12
+PROD-00354,Young New,Vertex,Fashion,Luxury,United Kingdom,943.12,2450.12,61.51,5.0,1191,2022-06-29
+PROD-00355,Plant Mouth,Vertex,Fashion,Clothing,France,1153.57,2155.36,46.48,3.8,804,2023-05-31
+PROD-00356,Change Century,Apex,Beauty,Skincare,Italy,1107.69,1752.41,36.79,3.2,307,2026-09-01
+PROD-00357,Expect Hand,Apex,Sports,Outdoor,United Kingdom,535.16,888.14,39.74,3.6,1709,2024-06-11
+PROD-00358,Certain Billion,Apex,Beauty,Personal Care,Germany,354.24,448.95,21.1,3.0,121,2026-09-24
+PROD-00359,Surface Party,GlobalOne,Sports,Outdoor,Italy,1481.64,2792.06,46.93,3.8,41,2021-07-27
+PROD-00360,Range Worry,UrbanStyle,Home,Appliances,United Kingdom,1021.07,1581.85,35.45,4.9,233,2023-01-24
+PROD-00361,Kind Office,NovaTech,Home,Appliances,Germany,1180.59,1585.6,25.54,3.8,405,2024-07-19
+PROD-00362,Gun End,GlobalOne,Electronics,Accessories,France,1319.28,3577.32,63.12,3.9,1779,2024-12-03
+PROD-00363,Technology Appear,GlobalOne,Fashion,Clothing,United States,922.05,1352.88,31.85,5.0,445,2025-11-01
+PROD-00364,Decade Want,Apex,Home,Appliances,United States,351.35,951.59,63.08,4.3,1449,2025-05-16
+PROD-00365,Far Make,ProGear,Home,Kitchen,Germany,913.57,1845.69,50.5,3.5,77,2026-08-10
+PROD-00366,Finally Record,Apex,Beauty,Skincare,United States,268.91,417.56,35.6,3.4,1134,2022-10-21
+PROD-00367,Consumer Word,HomeSphere,Home,Furniture,United States,1170.48,2060.28,43.19,3.1,211,2023-03-03
+PROD-00368,Make Able,NovaTech,Electronics,Accessories,Italy,1453.81,3800.34,61.75,4.9,1173,2025-03-18
+PROD-00369,While Resource,ProGear,Beauty,Cosmetics,Germany,1492.39,2206.1,32.35,3.8,1307,2025-05-26
+PROD-00370,Most Together,ProGear,Fashion,Footwear,Netherlands,1138.57,2634.23,56.78,3.3,1894,2024-08-19
+PROD-00371,Partner Treat,NovaTech,Beauty,Cosmetics,Netherlands,1224.67,1909.39,35.86,3.4,839,2025-07-09
+PROD-00372,Speech Before,NovaTech,Fashion,Luxury,United Kingdom,807.78,1735.68,53.46,4.2,621,2023-01-18
+PROD-00373,Me Culture,Vertex,Beauty,Personal Care,United Kingdom,141.77,369.16,61.6,3.5,1981,2023-04-22
+PROD-00374,Choice Black,GlobalOne,Home,Appliances,France,198.62,520.78,61.86,4.9,1698,2025-05-27
+PROD-00375,Hard Exist,HomeSphere,Electronics,Gaming,United States,1293.88,3228.52,59.92,4.3,500,2022-08-27
+PROD-00376,Work Sister,UrbanStyle,Fashion,Clothing,Italy,828.53,1109.55,25.33,3.8,1506,2022-05-18
+PROD-00377,Week Pressure,NovaTech,Fashion,Luxury,Italy,562.17,908.25,38.1,4.4,1341,2021-11-30
+PROD-00378,Adult Road,Apex,Home,Appliances,Germany,746.33,992.38,24.79,3.4,1803,2023-02-18
+PROD-00379,Visit Mrs,Vertex,Electronics,Accessories,Italy,1026.47,1356.8,24.35,4.7,1729,2023-11-27
+PROD-00380,Cold Method,UrbanStyle,Beauty,Personal Care,Germany,745.24,1467.33,49.21,4.2,1137,2022-07-04
+PROD-00381,Day Country,ProGear,Electronics,Accessories,Italy,1237.9,2174.36,43.07,4.4,1808,2022-11-12
+PROD-00382,Lead Manager,GlobalOne,Beauty,Personal Care,China,850.77,1384.41,38.55,4.8,1935,2026-05-22
+PROD-00383,National Stay,Apex,Electronics,Laptops,Netherlands,1197.15,2697.8,55.62,4.7,49,2023-11-22
+PROD-00384,Pretty Conference,NovaTech,Sports,Fitness,China,1301.6,3037.13,57.14,4.7,1481,2026-09-25
+PROD-00385,Foreign No,UrbanStyle,Electronics,Accessories,United Kingdom,1047.72,2397.42,56.3,4.2,1014,2021-12-14
+PROD-00386,Control Past,UrbanStyle,Fashion,Footwear,Italy,1130.31,1643.21,31.21,4.8,1450,2025-04-03
+PROD-00387,Their Sister,Vertex,Fashion,Clothing,United States,1308.41,1631.32,19.79,4.7,135,2022-10-31
+PROD-00388,Note Present,GlobalOne,Fashion,Clothing,Netherlands,197.66,343.18,42.4,4.5,656,2024-03-04
+PROD-00389,People Next,Apex,Fashion,Footwear,Germany,245.34,615.5,60.14,4.7,1236,2024-08-30
+PROD-00390,Movie What,ProGear,Sports,Fitness,United States,763.66,924.19,17.37,3.6,1048,2023-01-02
+PROD-00391,Similar Medical,NovaTech,Electronics,Gaming,Germany,927.31,2568.55,63.9,4.3,1413,2024-03-11
+PROD-00392,Interesting Account,NovaTech,Home,Appliances,United Kingdom,393.41,871.17,54.84,4.1,1284,2021-03-11
+PROD-00393,Authority Yes,UrbanStyle,Fashion,Footwear,Italy,1170.87,1605.46,27.07,4.5,1704,2022-07-18
+PROD-00394,Week Raise,LuxeCare,Fashion,Footwear,Germany,814.19,2231.52,63.51,3.7,1918,2025-09-05
+PROD-00395,Face Animal,GlobalOne,Sports,Outdoor,United States,950.77,2558.75,62.84,3.2,1562,2026-08-20
+PROD-00396,From Wrong,Apex,Fashion,Clothing,United States,1406.16,3235.04,56.53,3.1,895,2022-02-06
+PROD-00397,Speech Individual,ProGear,Home,Furniture,China,454.94,1061.41,57.14,3.1,914,2022-07-19
+PROD-00398,Management Office,HomeSphere,Fashion,Luxury,United States,875.34,1534.83,42.97,4.2,471,2022-07-18
+PROD-00399,Section Still,Vertex,Home,Appliances,United States,73.38,190.38,61.46,4.9,696,2022-04-08
+PROD-00400,No Development,LuxeCare,Fashion,Luxury,Germany,1453.47,3487.52,58.32,3.3,1760,2025-07-03
+PROD-00401,Staff So,NovaTech,Fashion,Footwear,United States,1138.6,1411.11,19.31,3.0,750,2025-07-08
+PROD-00402,Drop Allow,GlobalOne,Electronics,Smartphones,Netherlands,488.8,968.72,49.54,4.5,409,2022-09-15
+PROD-00403,Recent Use,UrbanStyle,Home,Appliances,China,1026.53,1964.21,47.74,3.5,1228,2022-10-06
+PROD-00404,Often Carry,UrbanStyle,Home,Furniture,United States,1495.7,2814.74,46.86,3.9,103,2021-02-01
+PROD-00405,Personal Story,GlobalOne,Home,Furniture,United States,249.62,616.98,59.54,4.4,1997,2024-12-14
+PROD-00406,With Doctor,HomeSphere,Home,Appliances,Italy,335.05,446.22,24.91,4.4,504,2023-11-25
+PROD-00407,Article Black,UrbanStyle,Electronics,Laptops,China,983.49,1610.18,38.92,4.9,777,2022-08-19
+PROD-00408,Prepare In,GlobalOne,Fashion,Clothing,Netherlands,230.83,436.67,47.14,4.9,1339,2022-07-09
+PROD-00409,Boy Sometimes,ProGear,Beauty,Skincare,Netherlands,632.49,1405.17,54.99,3.8,1356,2025-07-12
+PROD-00410,Too Forget,HomeSphere,Home,Appliances,France,414.95,1151.22,63.96,3.8,1372,2025-10-08
+PROD-00411,Discuss Toward,LuxeCare,Sports,Fitness,China,1341.68,2103.66,36.22,3.4,1016,2024-06-25
+PROD-00412,Cultural Activity,Apex,Home,Kitchen,China,51.55,115.61,55.41,3.7,413,2023-06-25
+PROD-00413,Candidate Address,UrbanStyle,Sports,Fitness,Netherlands,1297.22,2538.84,48.91,4.9,1689,2026-07-18
+PROD-00414,Few Know,Vertex,Fashion,Footwear,Italy,282.36,731.26,61.39,4.6,1505,2021-03-06
+PROD-00415,Final Chance,UrbanStyle,Home,Kitchen,United States,1157.53,2953.62,60.81,4.5,1425,2024-12-22
+PROD-00416,Method Us,HomeSphere,Sports,Outdoor,Italy,941.2,1327.08,29.08,3.1,520,2026-04-22
+PROD-00417,Reflect Chair,Apex,Electronics,Accessories,United Kingdom,1381.67,3021.22,54.27,4.6,1619,2021-07-11
+PROD-00418,And Hand,ProGear,Electronics,Smartphones,China,724.88,1005.91,27.94,3.3,1371,2021-10-09
+PROD-00419,According Mrs,NovaTech,Home,Furniture,United States,1029.92,1944.99,47.05,3.4,440,2024-07-29
+PROD-00420,Plant Reach,ProGear,Beauty,Personal Care,France,739.93,963.93,23.24,4.2,959,2024-02-16
+PROD-00421,Author Light,LuxeCare,Electronics,Gaming,Germany,407.15,1008.14,59.61,3.6,718,2023-03-13
+PROD-00422,Receive Pick,GlobalOne,Beauty,Skincare,United Kingdom,685.55,835.41,17.94,3.1,951,2024-09-20
+PROD-00423,Really Station,NovaTech,Beauty,Personal Care,China,591.78,1164.57,49.18,4.2,1816,2023-09-04
+PROD-00424,Huge House,HomeSphere,Fashion,Footwear,Netherlands,441.04,1019.67,56.75,4.7,1038,2023-01-03
+PROD-00425,Fact Security,Vertex,Home,Furniture,Italy,1170.88,1479.28,20.85,4.0,1052,2024-03-30
+PROD-00426,Series Dream,GlobalOne,Electronics,Smartphones,United States,161.87,256.93,37.0,5.0,1925,2021-01-12
+PROD-00427,Cell Rest,Vertex,Electronics,Laptops,United Kingdom,218.03,435.67,49.96,4.2,1504,2025-02-15
+PROD-00428,Use Another,GlobalOne,Fashion,Footwear,Italy,1055.19,2211.09,52.28,3.0,1035,2021-12-04
+PROD-00429,Skill Benefit,GlobalOne,Sports,Outdoor,United States,493.06,1000.09,50.7,3.2,138,2026-06-25
+PROD-00430,Wait Some,HomeSphere,Beauty,Personal Care,China,529.19,663.14,20.2,3.2,264,2023-06-02
+PROD-00431,Land No,GlobalOne,Sports,Fitness,Germany,598.4,845.15,29.2,4.1,82,2021-06-14
+PROD-00432,First Visit,LuxeCare,Beauty,Skincare,United States,1035.75,2569.63,59.69,3.4,212,2024-08-22
+PROD-00433,Remember Four,HomeSphere,Electronics,Accessories,France,255.39,349.2,26.86,4.3,1943,2021-01-24
+PROD-00434,Pressure Current,LuxeCare,Electronics,Laptops,Germany,1061.18,1327.05,20.03,4.9,1888,2023-02-12
+PROD-00435,Other Budget,Apex,Sports,Fitness,United Kingdom,82.7,170.86,51.6,4.4,1152,2023-03-15
+PROD-00436,Dinner Program,NovaTech,Beauty,Personal Care,United Kingdom,1307.1,3061.93,57.31,4.6,952,2022-11-19
+PROD-00437,News Star,UrbanStyle,Electronics,Accessories,China,512.48,1283.11,60.06,3.2,719,2024-06-10
+PROD-00438,Fish And,NovaTech,Sports,Equipment,Netherlands,1342.75,2787.75,51.83,4.6,1756,2022-07-19
+PROD-00439,Foot Town,ProGear,Beauty,Skincare,Italy,681.22,1518.93,55.15,4.1,516,2021-02-21
+PROD-00440,Mission Likely,LuxeCare,Fashion,Clothing,France,1098.73,1461.98,24.85,3.1,1900,2022-06-02
+PROD-00441,Why Oil,UrbanStyle,Fashion,Footwear,Netherlands,374.42,544.88,31.28,4.7,1971,2024-04-23
+PROD-00442,Green Attention,UrbanStyle,Sports,Fitness,Germany,332.72,918.77,63.79,3.7,317,2022-11-20
+PROD-00443,Detail Certain,Apex,Fashion,Luxury,United States,277.27,683.06,59.41,4.3,1948,2023-08-08
+PROD-00444,Skill Mr,ProGear,Sports,Fitness,France,749.8,1566.02,52.12,4.4,333,2023-03-08
+PROD-00445,Rich General,Apex,Electronics,Smartphones,United Kingdom,346.54,968.28,64.21,4.9,767,2021-11-25
+PROD-00446,Tv Long,LuxeCare,Sports,Equipment,Germany,977.24,1484.69,34.18,4.4,1350,2026-10-05
+PROD-00447,Watch Visit,NovaTech,Electronics,Accessories,China,112.94,141.07,19.94,3.5,530,2023-11-09
+PROD-00448,Congress Appear,HomeSphere,Fashion,Luxury,United States,696.62,1803.71,61.38,4.5,675,2023-10-24
+PROD-00449,Prevent Establish,NovaTech,Beauty,Skincare,United Kingdom,1115.35,2097.74,46.83,3.7,1971,2021-07-05
+PROD-00450,Director View,Apex,Electronics,Gaming,Italy,559.7,1556.1,64.03,3.1,820,2023-01-25
+PROD-00451,Best Statement,HomeSphere,Sports,Equipment,China,1301.21,2766.22,52.96,3.9,1229,2025-12-21
+PROD-00452,Local Fill,UrbanStyle,Home,Appliances,Italy,1089.26,2155.29,49.46,4.7,307,2024-01-24
+PROD-00453,Public Energy,UrbanStyle,Electronics,Accessories,China,1351.55,2533.82,46.66,3.6,1536,2024-04-21
+PROD-00454,My Modern,Vertex,Electronics,Smartphones,China,890.56,2368.69,62.4,3.4,1775,2023-03-07
+PROD-00455,Material Season,NovaTech,Electronics,Accessories,United Kingdom,936.34,2069.78,54.76,4.5,1287,2026-02-19
+PROD-00456,It Thought,Apex,Fashion,Footwear,France,201.69,473.03,57.36,4.8,691,2024-02-06
+PROD-00457,Attention Instead,LuxeCare,Electronics,Accessories,Germany,273.63,432.35,36.71,4.9,926,2024-09-10
+PROD-00458,Best Figure,HomeSphere,Fashion,Clothing,United Kingdom,275.56,707.37,61.04,4.0,592,2021-06-23
+PROD-00459,Alone Scientist,NovaTech,Sports,Equipment,Netherlands,374.61,971.44,61.44,3.9,1100,2023-04-06
+PROD-00460,Skin Phone,ProGear,Fashion,Footwear,United Kingdom,774.65,1374.83,43.65,4.2,567,2025-11-25
+PROD-00461,Over Name,LuxeCare,Electronics,Smartphones,United Kingdom,249.47,455.46,45.23,4.9,215,2025-05-19
+PROD-00462,Country When,GlobalOne,Beauty,Cosmetics,Netherlands,390.91,879.85,55.57,3.7,152,2021-03-05
+PROD-00463,Western Politics,HomeSphere,Beauty,Personal Care,United Kingdom,1161.34,1636.79,29.05,4.9,1606,2023-08-18
+PROD-00464,Government Himself,Apex,Sports,Fitness,Germany,683.42,1078.22,36.62,3.1,52,2026-02-27
+PROD-00465,Piece Day,ProGear,Home,Furniture,Netherlands,258.79,525.77,50.78,3.7,1947,2024-03-11
+PROD-00466,Or Learn,GlobalOne,Fashion,Luxury,United States,1244.18,2350.78,47.07,3.5,828,2025-09-17
+PROD-00467,Assume Camera,Apex,Sports,Equipment,Netherlands,927.63,2162.16,57.1,3.3,749,2023-07-23
+PROD-00468,Question Magazine,LuxeCare,Home,Kitchen,France,255.59,321.7,20.55,4.5,806,2023-09-09
+PROD-00469,Difficult Involve,Apex,Fashion,Luxury,United States,997.39,1954.3,48.96,4.7,1459,2026-12-03
+PROD-00470,Everything Leg,Apex,Fashion,Footwear,France,1209.48,2584.14,53.2,4.7,365,2025-03-24
+PROD-00471,Within Very,LuxeCare,Electronics,Gaming,Germany,312.73,431.28,27.49,3.5,565,2023-03-02
+PROD-00472,Fast Ok,UrbanStyle,Beauty,Skincare,Germany,90.34,185.19,51.22,4.9,503,2024-09-24
+PROD-00473,Himself Operation,ProGear,Home,Furniture,United Kingdom,63.82,89.05,28.33,3.9,187,2022-10-03
+PROD-00474,Article Quickly,Vertex,Electronics,Laptops,Germany,1401.14,2390.13,41.38,4.0,1729,2023-03-29
+PROD-00475,Fact Suffer,ProGear,Sports,Outdoor,United States,67.15,96.52,30.43,5.0,1139,2022-03-19
+PROD-00476,Other Heart,NovaTech,Sports,Equipment,Netherlands,1447.85,1748.86,17.21,4.9,1453,2022-10-19
+PROD-00477,Best Head,Apex,Home,Kitchen,France,960.48,2486.37,61.37,3.9,379,2024-12-15
+PROD-00478,Single Similar,Apex,Beauty,Skincare,United Kingdom,775.82,1537.8,49.55,4.3,1949,2022-11-08
+PROD-00479,Other Soon,GlobalOne,Sports,Outdoor,United Kingdom,213.78,266.79,19.87,3.6,1242,2023-08-15
+PROD-00480,Price Phone,Vertex,Fashion,Luxury,Germany,1058.5,1612.06,34.34,4.3,1771,2025-11-05
+PROD-00481,Service Yourself,GlobalOne,Beauty,Personal Care,Germany,1455.02,1964.63,25.94,4.3,1937,2022-10-19
+PROD-00482,Push Would,UrbanStyle,Electronics,Gaming,Netherlands,668.41,1730.53,61.38,3.4,844,2021-01-27
+PROD-00483,Pressure Goal,HomeSphere,Fashion,Clothing,Netherlands,1040.48,2643.84,60.65,4.9,877,2024-04-28
+PROD-00484,Inside Popular,HomeSphere,Beauty,Cosmetics,United Kingdom,1026.46,2048.28,49.89,4.2,246,2026-03-14
+PROD-00485,Indeed Order,GlobalOne,Sports,Equipment,Germany,1304.01,2755.34,52.67,3.1,1679,2026-03-21
+PROD-00486,Whatever Apply,GlobalOne,Sports,Fitness,United Kingdom,1396.77,3217.1,56.58,4.4,318,2022-08-06
+PROD-00487,Response Yourself,GlobalOne,Home,Furniture,Germany,327.43,738.1,55.64,3.8,66,2025-01-15
+PROD-00488,Full Job,NovaTech,Beauty,Personal Care,France,978.59,1341.21,27.04,4.3,831,2025-06-02
+PROD-00489,Paper Through,ProGear,Beauty,Personal Care,Italy,1499.12,1914.59,21.7,5.0,341,2026-07-26
+PROD-00490,Information Physical,Apex,Electronics,Gaming,Italy,613.33,1590.49,61.44,4.6,807,2026-04-16
+PROD-00491,Meet Consumer,UrbanStyle,Beauty,Skincare,Germany,852.69,2030.7,58.01,4.8,1378,2026-01-26
+PROD-00492,Personal Than,GlobalOne,Electronics,Laptops,Italy,609.19,1049.79,41.97,4.3,1031,2023-02-08
+PROD-00493,As Scientist,Apex,Home,Appliances,Italy,1212.73,2934.39,58.67,4.6,762,2025-04-25
+PROD-00494,Road Particular,LuxeCare,Fashion,Footwear,Germany,656.2,1646.1,60.14,3.2,910,2022-09-23
+PROD-00495,Cut Standard,Apex,Electronics,Accessories,China,819.01,990.36,17.3,3.6,1287,2025-05-31
+PROD-00496,Wish Event,LuxeCare,Sports,Equipment,China,552.86,1013.88,45.47,4.4,1336,2026-08-11
+PROD-00497,Image Officer,HomeSphere,Electronics,Laptops,Netherlands,585.89,1123.68,47.86,3.5,1483,2022-01-22
+PROD-00498,Money Throughout,Vertex,Electronics,Smartphones,Italy,563.01,880.34,36.05,3.1,1024,2023-01-15
+PROD-00499,Doctor During,Vertex,Beauty,Cosmetics,Italy,907.16,2058.47,55.93,4.2,1281,2025-09-07
+PROD-00500,Story Your,ProGear,Sports,Fitness,France,697.92,1261.6,44.68,4.7,1309,2022-08-22
+PROD-00501,Edge Town,NovaTech,Electronics,Gaming,France,781.03,1536.04,49.15,3.1,240,2024-08-26
+PROD-00502,Able Ten,ProGear,Sports,Fitness,France,515.17,931.59,44.7,3.8,279,2025-06-08
+PROD-00503,Use Everything,LuxeCare,Beauty,Cosmetics,Germany,872.36,1791.62,51.31,4.2,1466,2022-09-22
+PROD-00504,Ahead Institution,Apex,Electronics,Gaming,Netherlands,1148.5,2872.14,60.01,4.4,1595,2024-11-29
+PROD-00505,Quickly Home,ProGear,Home,Kitchen,France,1433.51,1762.03,18.64,3.4,141,2021-02-12
+PROD-00506,Almost Program,UrbanStyle,Fashion,Clothing,China,16.31,36.47,55.28,4.8,1165,2024-01-30
+PROD-00507,Employee Must,LuxeCare,Fashion,Clothing,Italy,369.01,990.15,62.73,3.1,450,2022-01-31
+PROD-00508,Offer Really,Vertex,Fashion,Luxury,France,1401.98,2471.12,43.27,3.2,1224,2022-04-14
+PROD-00509,Trial We,GlobalOne,Home,Furniture,United States,731.38,1178.14,37.92,3.6,1929,2024-04-25
+PROD-00510,Once Even,ProGear,Electronics,Accessories,Germany,464.4,1153.96,59.76,4.1,1629,2026-11-12
+PROD-00511,Factor Perhaps,ProGear,Sports,Outdoor,China,470.41,1023.86,54.06,4.4,123,2021-12-09
+PROD-00512,Phone Structure,HomeSphere,Beauty,Cosmetics,Netherlands,412.57,768.07,46.28,3.2,203,2024-11-24
+PROD-00513,Street Might,UrbanStyle,Sports,Fitness,Netherlands,275.82,631.57,56.33,3.4,1732,2026-11-28
+PROD-00514,Example Personal,HomeSphere,Beauty,Personal Care,Germany,790.12,1844.51,57.16,3.2,1528,2025-01-30
+PROD-00515,Matter Protect,ProGear,Electronics,Accessories,Italy,853.13,1373.97,37.91,4.9,1312,2025-06-18
+PROD-00516,Wear Citizen,UrbanStyle,Sports,Fitness,United States,727.9,1812.17,59.83,4.1,932,2023-12-19
+PROD-00517,Seek Season,Vertex,Electronics,Smartphones,Italy,69.9,154.69,54.81,4.9,1374,2023-10-28
+PROD-00518,Administration Seek,ProGear,Beauty,Personal Care,China,904.41,2270.7,60.17,4.8,551,2021-08-08
+PROD-00519,Force Brother,UrbanStyle,Home,Furniture,United Kingdom,345.98,532.56,35.03,4.2,1087,2026-03-18
+PROD-00520,I Girl,GlobalOne,Fashion,Clothing,Netherlands,619.49,1575.85,60.69,4.8,1771,2023-12-31
+PROD-00521,Yet Thing,LuxeCare,Sports,Fitness,Italy,533.36,842.17,36.67,4.6,424,2025-09-10
+PROD-00522,Serious Especially,LuxeCare,Home,Appliances,Netherlands,415.84,1046.33,60.26,3.8,1591,2026-05-15
+PROD-00523,Right Parent,ProGear,Electronics,Smartphones,Italy,1002.99,1356.9,26.08,4.2,1014,2026-01-27
+PROD-00524,Order Key,HomeSphere,Fashion,Clothing,Netherlands,680.39,1455.06,53.24,3.3,339,2024-06-09
+PROD-00525,Her Anyone,LuxeCare,Fashion,Luxury,China,1106.63,2855.63,61.25,3.4,723,2025-06-17
+PROD-00526,Happy Range,Apex,Beauty,Cosmetics,Netherlands,148.09,183.31,19.21,4.3,189,2026-08-18
+PROD-00527,Head Agency,NovaTech,Sports,Fitness,Germany,912.61,1893.41,51.8,3.5,60,2021-11-09
+PROD-00528,Get Born,Apex,Fashion,Footwear,Netherlands,589.4,1267.89,53.51,4.0,66,2023-09-08
+PROD-00529,White Here,ProGear,Electronics,Accessories,Netherlands,1481.74,2101.56,29.49,4.4,1106,2026-11-29
+PROD-00530,Current Enjoy,HomeSphere,Fashion,Luxury,China,609.46,1148.9,46.95,4.4,1473,2023-08-17
+PROD-00531,Have Board,ProGear,Fashion,Luxury,China,1040.19,2897.98,64.11,3.3,152,2021-03-31
+PROD-00532,Cup Read,Vertex,Fashion,Clothing,China,160.64,378.94,57.61,4.2,421,2022-02-22
+PROD-00533,Sound Television,Apex,Electronics,Smartphones,Netherlands,414.87,550.56,24.65,3.2,1552,2025-01-31
+PROD-00534,Indicate Dream,UrbanStyle,Home,Appliances,France,1341.82,2022.11,33.64,3.6,681,2022-05-22
+PROD-00535,Outside Work,Apex,Sports,Equipment,Germany,343.85,607.92,43.44,3.1,243,2025-01-03
+PROD-00536,Little Affect,Apex,Beauty,Cosmetics,France,780.99,1021.68,23.56,4.6,105,2024-07-26
+PROD-00537,Evening Necessary,ProGear,Beauty,Personal Care,Germany,354.4,731.49,51.55,4.8,1149,2021-12-11
+PROD-00538,Necessary Eat,NovaTech,Sports,Equipment,United States,978.06,2007.7,51.28,3.6,1347,2021-04-22
+PROD-00539,Daughter Describe,GlobalOne,Home,Kitchen,China,502.84,1142.04,55.97,5.0,1743,2023-06-25
+PROD-00540,Quality Save,HomeSphere,Home,Kitchen,Italy,994.45,2080.84,52.21,4.5,1411,2024-02-18
+PROD-00541,Whole Several,Vertex,Electronics,Smartphones,Italy,700.48,907.98,22.85,4.1,1064,2024-06-08
+PROD-00542,Home Quite,ProGear,Fashion,Footwear,United Kingdom,1436.65,2126.94,32.45,4.4,1367,2021-07-24
+PROD-00543,Test Around,Apex,Beauty,Personal Care,France,305.4,628.31,51.39,3.2,647,2026-05-31
+PROD-00544,Affect Stop,NovaTech,Fashion,Luxury,China,678.3,1634.61,58.5,3.7,609,2024-12-01
+PROD-00545,Never Rise,ProGear,Fashion,Clothing,Netherlands,999.04,2470.35,59.56,4.9,484,2023-01-13
+PROD-00546,Nothing Player,Apex,Beauty,Cosmetics,Italy,355.79,654.26,45.62,3.3,945,2022-05-10
+PROD-00547,Red Hear,LuxeCare,Fashion,Footwear,Netherlands,1488.76,3994.64,62.73,4.1,1566,2025-12-28
+PROD-00548,Wonder Weight,Apex,Fashion,Footwear,United Kingdom,1263.84,2570.06,50.82,4.2,1882,2025-02-01
+PROD-00549,May Lay,LuxeCare,Fashion,Clothing,United Kingdom,138.24,332.94,58.48,3.3,1034,2026-03-22
+PROD-00550,Upon Affect,NovaTech,Home,Furniture,United Kingdom,1239.97,3039.47,59.2,4.4,768,2022-02-19
+PROD-00551,World Majority,ProGear,Beauty,Cosmetics,Germany,59.06,99.52,40.66,3.5,659,2021-09-05
+PROD-00552,Design Resource,UrbanStyle,Electronics,Gaming,France,543.4,728.28,25.39,4.9,346,2023-06-26
+PROD-00553,Machine Wonder,NovaTech,Electronics,Laptops,Netherlands,832.93,1406.68,40.79,3.8,238,2023-01-29
+PROD-00554,Recently When,GlobalOne,Sports,Fitness,Italy,673.57,1455.55,53.72,4.0,1788,2026-12-13
+PROD-00555,Yourself Two,HomeSphere,Home,Kitchen,Italy,1379.49,2752.28,49.88,5.0,1391,2024-07-01
+PROD-00556,Community Customer,UrbanStyle,Fashion,Footwear,Netherlands,1277.88,1959.78,34.79,4.9,62,2022-01-26
+PROD-00557,Within Go,LuxeCare,Fashion,Footwear,Germany,178.97,448.84,60.13,3.8,419,2025-07-20
+PROD-00558,Specific Rule,LuxeCare,Sports,Equipment,China,1317.57,3411.04,61.37,4.6,224,2024-03-02
+PROD-00559,Dog Husband,Apex,Beauty,Cosmetics,France,1186.1,2001.53,40.74,3.2,950,2022-11-21
+PROD-00560,Term Treat,NovaTech,Fashion,Clothing,China,607.46,897.61,32.32,4.4,1224,2026-03-30
+PROD-00561,Prove Can,Vertex,Fashion,Clothing,Netherlands,522.42,1442.39,63.78,4.3,282,2021-08-14
+PROD-00562,Catch Discussion,ProGear,Beauty,Personal Care,Netherlands,1234.61,1743.32,29.18,4.7,1512,2023-08-01
+PROD-00563,Same Time,HomeSphere,Sports,Outdoor,United Kingdom,1384.52,2740.38,49.48,4.2,815,2025-09-22
+PROD-00564,Provide Take,Apex,Sports,Fitness,Germany,1148.39,1699.32,32.42,4.0,686,2022-01-18
+PROD-00565,Management History,Apex,Electronics,Laptops,France,601.0,861.95,30.27,3.7,1234,2024-09-19
+PROD-00566,Card While,HomeSphere,Electronics,Gaming,Germany,106.92,132.72,19.44,3.3,614,2026-05-22
+PROD-00567,Modern Population,Vertex,Fashion,Luxury,China,1444.86,3004.22,51.91,4.9,1837,2026-08-08
+PROD-00568,These Pattern,NovaTech,Sports,Equipment,France,651.58,1106.97,41.14,4.0,1313,2023-11-14
+PROD-00569,Establish Prove,Apex,Beauty,Personal Care,Netherlands,662.07,906.42,26.96,4.3,1791,2021-07-29
+PROD-00570,Ever Spring,GlobalOne,Beauty,Cosmetics,China,327.98,718.72,54.37,4.3,1011,2026-04-16
+PROD-00571,Nor Car,UrbanStyle,Electronics,Accessories,United States,232.28,301.54,22.97,4.6,1269,2024-04-01
+PROD-00572,Watch Population,UrbanStyle,Electronics,Gaming,United States,692.4,895.32,22.66,5.0,1596,2025-02-15
+PROD-00573,Many Fear,GlobalOne,Sports,Equipment,United States,91.38,211.28,56.75,5.0,339,2022-11-29
+PROD-00574,Meeting Sing,ProGear,Electronics,Gaming,France,362.57,517.6,29.95,3.2,1427,2021-10-23
+PROD-00575,Myself Wall,GlobalOne,Beauty,Skincare,China,458.4,624.19,26.56,4.4,1887,2024-01-25
+PROD-00576,Audience Health,GlobalOne,Home,Furniture,Italy,98.13,197.74,50.37,5.0,1156,2022-05-01
+PROD-00577,Kid Wear,HomeSphere,Sports,Fitness,France,1221.89,2669.04,54.22,3.6,1584,2025-10-21
+PROD-00578,Agreement Front,Apex,Electronics,Accessories,Germany,937.72,1916.01,51.06,3.9,90,2022-04-25
+PROD-00579,Five Late,HomeSphere,Fashion,Clothing,Netherlands,200.41,524.79,61.81,3.9,1578,2024-07-17
+PROD-00580,Sort Citizen,GlobalOne,Fashion,Footwear,France,295.96,529.3,44.08,3.8,1986,2021-08-15
+PROD-00581,Many Anyone,HomeSphere,Beauty,Cosmetics,Netherlands,1242.17,2948.64,57.87,4.5,681,2026-03-13
+PROD-00582,Participant Movement,Apex,Beauty,Skincare,France,21.49,40.1,46.41,4.0,1682,2023-09-09
+PROD-00583,Walk Inside,LuxeCare,Sports,Equipment,Germany,33.69,54.43,38.1,4.5,716,2022-02-12
+PROD-00584,Consumer American,GlobalOne,Fashion,Luxury,China,209.98,431.82,51.37,3.4,1708,2022-01-01
+PROD-00585,Cultural Fine,LuxeCare,Electronics,Gaming,United States,23.12,36.67,36.95,5.0,1136,2022-01-28
+PROD-00586,Allow List,NovaTech,Home,Kitchen,China,1203.3,3291.41,63.44,4.0,1607,2024-07-20
+PROD-00587,Rock Morning,UrbanStyle,Electronics,Laptops,United States,169.06,351.09,51.85,3.9,60,2023-08-23
+PROD-00588,Open Again,HomeSphere,Fashion,Clothing,Italy,1267.31,1719.65,26.3,4.0,615,2021-12-06
+PROD-00589,Remain Rock,NovaTech,Fashion,Luxury,Italy,229.32,394.31,41.84,4.5,960,2021-12-11
+PROD-00590,Provide Wall,LuxeCare,Beauty,Skincare,United Kingdom,716.65,1290.99,44.49,3.8,650,2025-07-22
+PROD-00591,Growth Six,Vertex,Fashion,Clothing,Germany,691.87,1699.25,59.28,4.8,709,2024-09-27
+PROD-00592,Management State,GlobalOne,Home,Kitchen,United States,1433.23,3524.38,59.33,3.6,1001,2022-12-12
+PROD-00593,Red Medical,ProGear,Home,Appliances,Germany,1033.76,1964.31,47.37,3.5,34,2025-04-17
+PROD-00594,Next Performance,HomeSphere,Home,Kitchen,China,1262.1,1592.12,20.73,4.8,148,2021-05-27
+PROD-00595,Foreign Part,ProGear,Electronics,Smartphones,United Kingdom,694.91,1542.37,54.95,4.3,1753,2021-01-23
+PROD-00596,Site Become,ProGear,Beauty,Skincare,Italy,1343.2,2980.12,54.93,4.2,1765,2024-08-21
+PROD-00597,Probably Section,Apex,Electronics,Smartphones,France,104.64,212.36,50.73,3.3,1931,2024-04-10
+PROD-00598,Can Partner,NovaTech,Home,Appliances,Italy,1107.46,2236.58,50.48,4.4,1645,2022-06-08
+PROD-00599,Herself Machine,HomeSphere,Home,Kitchen,Italy,67.3,89.89,25.13,4.4,22,2026-06-19
+PROD-00600,Per Develop,GlobalOne,Sports,Equipment,France,112.77,148.18,23.9,3.0,57,2024-07-01
+PROD-00601,Change Most,HomeSphere,Home,Appliances,Netherlands,1434.97,3415.25,57.98,3.7,451,2025-06-24
+PROD-00602,Beat Out,Vertex,Sports,Equipment,Italy,448.32,788.83,43.17,4.5,180,2025-08-28
+PROD-00603,Even Plant,Apex,Electronics,Accessories,United Kingdom,993.75,1486.96,33.17,3.3,1737,2021-04-30
+PROD-00604,Suggest Grow,UrbanStyle,Home,Kitchen,United States,152.1,343.21,55.68,4.5,1113,2022-08-18
+PROD-00605,Effect Right,Vertex,Sports,Outdoor,Germany,401.24,494.93,18.93,3.2,1291,2021-12-04
+PROD-00606,So General,HomeSphere,Home,Furniture,China,1451.95,2428.69,40.22,4.5,857,2022-01-13
+PROD-00607,Kid Magazine,Apex,Sports,Fitness,United States,938.87,1700.39,44.79,3.4,1269,2026-08-15
+PROD-00608,Manager Skill,GlobalOne,Fashion,Footwear,Germany,186.47,407.25,54.21,4.5,1269,2021-07-17
+PROD-00609,Near Answer,LuxeCare,Fashion,Clothing,United States,967.64,1982.19,51.18,3.1,1539,2026-01-22
+PROD-00610,Poor Perhaps,Apex,Electronics,Laptops,China,1452.89,3600.18,59.64,3.6,110,2023-06-21
+PROD-00611,Red Suddenly,HomeSphere,Home,Furniture,United States,1470.06,3179.76,53.77,4.2,1067,2026-10-19
+PROD-00612,Season Republican,GlobalOne,Electronics,Smartphones,United States,1123.37,2807.11,59.98,4.3,1442,2024-03-23
+PROD-00613,Camera Work,ProGear,Beauty,Skincare,United Kingdom,196.5,342.15,42.57,4.9,97,2026-03-28
+PROD-00614,People Seem,LuxeCare,Sports,Fitness,United Kingdom,340.8,611.9,44.3,3.9,238,2024-09-25
+PROD-00615,Example Down,ProGear,Sports,Fitness,United States,661.91,1443.43,54.14,4.9,1527,2021-01-18
+PROD-00616,Marriage Section,GlobalOne,Home,Furniture,United States,364.84,508.73,28.28,3.4,1994,2023-08-11
+PROD-00617,Let Present,UrbanStyle,Beauty,Personal Care,Netherlands,1330.95,2972.41,55.22,3.6,1187,2021-04-11
+PROD-00618,Floor Nor,GlobalOne,Home,Kitchen,United States,1224.84,3157.87,61.21,4.7,182,2021-06-05
+PROD-00619,Discussion Lay,HomeSphere,Home,Kitchen,Germany,1378.8,2211.02,37.64,4.5,811,2024-01-09
+PROD-00620,Decade Idea,UrbanStyle,Sports,Fitness,Germany,693.51,1766.51,60.74,4.5,1380,2022-06-30
+PROD-00621,Attorney Building,Apex,Beauty,Skincare,Italy,1165.79,2622.86,55.55,3.4,1341,2025-05-18
+PROD-00622,Once Last,GlobalOne,Fashion,Luxury,China,819.82,2275.39,63.97,4.9,1159,2025-11-17
+PROD-00623,Live Girl,Apex,Home,Appliances,Italy,69.54,101.79,31.68,3.3,350,2021-05-29
+PROD-00624,Once By,NovaTech,Electronics,Smartphones,China,1090.34,2735.07,60.13,3.4,91,2025-10-01
+PROD-00625,Choice Despite,Apex,Beauty,Personal Care,United States,761.25,1937.48,60.71,4.5,1773,2024-06-10
+PROD-00626,Bad Quickly,HomeSphere,Beauty,Skincare,Italy,815.64,1749.19,53.37,4.0,1775,2024-07-22
+PROD-00627,Term Toward,UrbanStyle,Beauty,Skincare,France,449.83,946.46,52.47,4.4,637,2021-03-04
+PROD-00628,Seven Without,ProGear,Beauty,Cosmetics,China,1310.62,2907.04,54.92,4.5,273,2025-01-03
+PROD-00629,Where Positive,UrbanStyle,Electronics,Accessories,United Kingdom,244.31,473.59,48.41,3.0,1649,2024-12-02
+PROD-00630,Miss Support,GlobalOne,Beauty,Cosmetics,China,373.78,882.99,57.67,5.0,843,2022-08-03
+PROD-00631,Response Huge,Apex,Fashion,Luxury,China,153.27,282.38,45.72,4.6,402,2024-09-15
+PROD-00632,Side Story,LuxeCare,Beauty,Personal Care,Germany,310.03,647.38,52.11,4.5,94,2022-03-13
+PROD-00633,Property Specific,LuxeCare,Fashion,Clothing,Italy,925.9,1389.63,33.37,3.7,1974,2022-02-11
+PROD-00634,Expert Although,Apex,Electronics,Smartphones,France,1176.77,2455.64,52.08,3.0,1430,2022-12-27
+PROD-00635,Smile One,ProGear,Beauty,Skincare,United Kingdom,1142.68,1435.78,20.41,4.5,1407,2025-11-05
+PROD-00636,Born Know,Apex,Sports,Outdoor,United States,307.71,840.95,63.41,3.7,1914,2024-11-25
+PROD-00637,Hospital Forget,GlobalOne,Home,Kitchen,United Kingdom,493.76,710.14,30.47,3.6,1446,2022-08-10
+PROD-00638,Western Show,Vertex,Sports,Equipment,Germany,1315.59,3675.94,64.21,3.7,1308,2025-06-25
+PROD-00639,Leader Stock,LuxeCare,Fashion,Footwear,United States,675.67,1591.41,57.54,4.8,1347,2026-07-21
+PROD-00640,Reflect Plant,ProGear,Home,Furniture,United States,891.6,1628.45,45.25,3.8,1249,2021-11-18
+PROD-00641,Know Analysis,ProGear,Home,Kitchen,United States,1044.95,1259.32,17.02,4.2,1522,2023-02-07
+PROD-00642,Successful Skill,Apex,Beauty,Cosmetics,Netherlands,536.46,1325.44,59.53,3.2,932,2022-05-27
+PROD-00643,Prevent Tell,ProGear,Fashion,Clothing,France,884.36,1741.8,49.23,4.3,409,2026-09-03
+PROD-00644,Draw Include,ProGear,Sports,Equipment,United Kingdom,101.96,216.97,53.01,4.1,644,2021-08-21
+PROD-00645,Better Too,LuxeCare,Home,Furniture,Germany,843.19,1826.0,53.82,4.4,467,2021-02-01
+PROD-00646,Possible Floor,HomeSphere,Beauty,Cosmetics,France,1208.46,1971.86,38.71,4.7,1253,2026-04-15
+PROD-00647,Front Could,HomeSphere,Fashion,Luxury,Netherlands,749.89,992.32,24.43,3.1,1400,2021-10-13
+PROD-00648,Work Yeah,ProGear,Sports,Equipment,Netherlands,504.69,1239.44,59.28,4.4,701,2022-03-12
+PROD-00649,Success Could,GlobalOne,Electronics,Smartphones,United Kingdom,1183.98,2400.67,50.68,3.9,366,2023-01-26
+PROD-00650,Seek Return,ProGear,Sports,Outdoor,China,225.44,388.91,42.03,3.9,342,2025-05-29
+PROD-00651,Everybody To,ProGear,Sports,Outdoor,United States,137.46,213.47,35.61,4.2,1348,2021-01-11
+PROD-00652,Instead Perhaps,NovaTech,Sports,Fitness,China,1104.82,3090.57,64.25,4.9,1043,2021-05-07
+PROD-00653,Word Entire,ProGear,Electronics,Accessories,United Kingdom,965.63,1809.59,46.64,4.3,1593,2022-10-31
+PROD-00654,Term South,LuxeCare,Sports,Fitness,Germany,1179.55,1638.79,28.02,3.8,1512,2025-07-04
+PROD-00655,Live Group,Vertex,Sports,Equipment,Germany,1260.5,2286.71,44.88,4.1,1774,2024-09-05
+PROD-00656,Expect Customer,ProGear,Home,Appliances,Italy,883.72,1321.3,33.12,3.7,391,2026-08-22
+PROD-00657,Blue Card,Vertex,Sports,Equipment,Germany,505.09,627.28,19.48,3.0,1234,2025-04-25
+PROD-00658,Make National,Apex,Sports,Equipment,China,1248.39,2043.51,38.91,4.0,1488,2025-08-09
+PROD-00659,Time Pick,Apex,Home,Kitchen,United Kingdom,451.59,1221.59,63.03,3.5,1230,2024-01-23
+PROD-00660,Democratic Television,ProGear,Electronics,Gaming,United Kingdom,647.34,1680.73,61.48,4.7,401,2026-12-29
+PROD-00661,Cost Kid,GlobalOne,Beauty,Cosmetics,Netherlands,283.22,703.58,59.75,3.9,582,2021-06-19
+PROD-00662,Natural See,NovaTech,Beauty,Cosmetics,United Kingdom,727.04,1027.72,29.26,3.2,365,2024-09-13
+PROD-00663,Within Together,UrbanStyle,Beauty,Cosmetics,China,1093.27,2180.35,49.86,3.9,1789,2022-07-12
+PROD-00664,Decision Name,ProGear,Beauty,Cosmetics,China,1095.61,2656.66,58.76,3.3,1202,2023-02-08
+PROD-00665,True Tough,Apex,Beauty,Cosmetics,United Kingdom,917.29,1299.4,29.41,4.5,1471,2025-03-01
+PROD-00666,Western Sure,GlobalOne,Sports,Outdoor,Germany,987.15,2695.5,63.38,3.1,1436,2022-09-04
+PROD-00667,Artist Into,GlobalOne,Home,Furniture,China,90.3,149.13,39.45,3.5,715,2022-07-24
+PROD-00668,Best Game,NovaTech,Home,Furniture,Italy,374.23,991.71,62.26,3.5,1209,2025-03-06
+PROD-00669,Region Reason,Apex,Beauty,Cosmetics,United Kingdom,411.56,993.93,58.59,3.9,157,2025-08-06
+PROD-00670,Social Such,Apex,Fashion,Clothing,Germany,1166.18,1521.38,23.35,4.0,397,2025-10-25
+PROD-00671,We Morning,LuxeCare,Sports,Equipment,United Kingdom,55.25,71.84,23.09,4.8,396,2025-01-08
+PROD-00672,Stock Me,Apex,Electronics,Accessories,China,213.17,437.4,51.26,3.8,717,2023-04-18
+PROD-00673,She Rate,HomeSphere,Sports,Fitness,Italy,524.28,1383.96,62.12,3.0,474,2024-10-13
+PROD-00674,Population There,NovaTech,Beauty,Skincare,France,997.37,2734.22,63.52,4.1,1777,2026-07-19
+PROD-00675,Current Suffer,NovaTech,Fashion,Footwear,United States,1405.55,1804.18,22.09,3.8,784,2022-11-02
+PROD-00676,Past Ground,Vertex,Sports,Equipment,United Kingdom,393.94,933.37,57.79,5.0,1248,2026-02-02
+PROD-00677,Positive One,Vertex,Beauty,Cosmetics,United Kingdom,388.51,872.86,55.49,3.4,398,2021-07-09
+PROD-00678,Senior Huge,HomeSphere,Fashion,Footwear,United Kingdom,850.17,1651.28,48.51,4.9,1920,2026-07-19
+PROD-00679,Sister Sport,Vertex,Beauty,Personal Care,United States,914.75,1609.24,43.16,3.2,99,2024-04-06
+PROD-00680,Between Than,HomeSphere,Electronics,Accessories,United States,231.11,360.65,35.92,3.5,1312,2025-04-30
+PROD-00681,Analysis Within,UrbanStyle,Electronics,Gaming,China,1276.67,2678.4,52.33,4.0,1256,2022-12-22
+PROD-00682,Ten Lot,ProGear,Fashion,Clothing,France,176.58,454.91,61.18,4.4,1297,2022-02-05
+PROD-00683,Meeting Defense,NovaTech,Fashion,Luxury,France,106.16,247.62,57.13,4.1,1364,2022-05-30
+PROD-00684,Indeed Particularly,HomeSphere,Sports,Fitness,United States,127.18,245.87,48.27,4.0,1362,2021-11-20
+PROD-00685,Near Notice,HomeSphere,Fashion,Footwear,United States,252.83,685.96,63.14,4.7,202,2024-06-25
+PROD-00686,Structure List,ProGear,Home,Furniture,Germany,1005.19,1949.74,48.44,3.8,1588,2025-04-13
+PROD-00687,Enjoy Public,UrbanStyle,Home,Furniture,China,978.21,2027.53,51.75,3.1,621,2023-07-13
+PROD-00688,Cold Range,Apex,Fashion,Clothing,Germany,771.19,1920.45,59.84,3.9,339,2021-08-26
+PROD-00689,It Reduce,NovaTech,Fashion,Footwear,Italy,82.68,203.23,59.32,3.4,1141,2022-02-06
+PROD-00690,All Trial,ProGear,Sports,Outdoor,Netherlands,391.64,573.18,31.67,3.7,824,2025-03-09
+PROD-00691,Option Identify,Apex,Fashion,Clothing,United States,1136.34,2307.93,50.76,3.4,1774,2025-01-27
+PROD-00692,Article Movie,Vertex,Electronics,Smartphones,Germany,1317.36,3434.79,61.65,4.7,736,2023-06-12
+PROD-00693,Majority Culture,LuxeCare,Sports,Equipment,Netherlands,362.0,695.76,47.97,5.0,186,2024-01-10
+PROD-00694,Already Clear,HomeSphere,Home,Appliances,France,1159.16,1441.38,19.58,3.1,328,2025-12-26
+PROD-00695,Employee Growth,LuxeCare,Electronics,Smartphones,Germany,698.58,1854.56,62.33,4.1,342,2026-10-27
+PROD-00696,Board Cultural,Vertex,Sports,Fitness,Italy,749.23,1025.51,26.94,4.3,392,2023-09-23
+PROD-00697,Hot Around,Vertex,Home,Furniture,United States,1234.04,2231.97,44.71,4.6,1892,2021-05-17
+PROD-00698,Dark Make,GlobalOne,Sports,Equipment,Italy,1446.89,2207.99,34.47,4.0,1505,2025-05-23
+PROD-00699,Catch Word,UrbanStyle,Electronics,Smartphones,Germany,434.27,1072.02,59.49,4.2,226,2022-12-09
+PROD-00700,Difference Fight,UrbanStyle,Beauty,Cosmetics,China,953.7,2361.99,59.62,3.8,1871,2025-07-26
+PROD-00701,Face Laugh,HomeSphere,Fashion,Footwear,France,1373.06,2818.68,51.29,3.3,175,2025-11-29
+PROD-00702,Mr Player,Apex,Home,Kitchen,China,1045.37,2581.25,59.5,3.6,1543,2022-03-13
+PROD-00703,Director Kid,LuxeCare,Sports,Outdoor,China,1286.48,3408.95,62.26,3.6,645,2021-04-09
+PROD-00704,American Artist,GlobalOne,Sports,Equipment,Italy,1475.36,2102.59,29.83,3.4,932,2026-10-26
+PROD-00705,Upon Congress,Apex,Sports,Fitness,France,280.42,737.61,61.98,4.3,1307,2023-07-05
+PROD-00706,Little Alone,GlobalOne,Home,Furniture,China,232.4,442.61,47.49,4.2,1115,2021-01-18
+PROD-00707,Government Figure,GlobalOne,Beauty,Personal Care,Italy,129.78,338.97,61.71,4.6,1201,2025-04-04
+PROD-00708,Today Also,GlobalOne,Beauty,Personal Care,China,760.28,2088.8,63.6,3.8,819,2023-08-08
+PROD-00709,Describe Rule,NovaTech,Fashion,Luxury,Italy,1476.24,3349.1,55.92,4.3,1710,2026-07-10
+PROD-00710,Likely Anything,NovaTech,Home,Furniture,China,253.1,660.87,61.7,3.9,1771,2024-01-11
+PROD-00711,Appear Factor,UrbanStyle,Fashion,Footwear,Italy,247.54,302.04,18.04,4.1,878,2021-03-26
+PROD-00712,Do Land,HomeSphere,Beauty,Cosmetics,Italy,793.46,1865.4,57.46,4.8,130,2025-01-08
+PROD-00713,Mind Full,Apex,Home,Kitchen,United States,123.71,293.24,57.81,3.4,1733,2021-05-17
+PROD-00714,Civil Score,HomeSphere,Home,Kitchen,United Kingdom,1287.97,3233.45,60.17,4.1,152,2026-05-02
+PROD-00715,Part Raise,GlobalOne,Home,Furniture,Netherlands,1066.81,1816.73,41.28,3.9,1294,2026-01-20
+PROD-00716,Act Style,ProGear,Home,Kitchen,Germany,1233.35,2386.32,48.32,3.7,1126,2021-06-26
+PROD-00717,Operation Style,GlobalOne,Sports,Equipment,Italy,743.85,1878.37,60.4,3.7,653,2021-06-18
+PROD-00718,Cause System,Vertex,Fashion,Luxury,Germany,264.77,619.36,57.25,4.7,1539,2021-08-21
+PROD-00719,Customer Hour,ProGear,Fashion,Footwear,Germany,155.45,246.2,36.86,3.3,123,2025-08-18
+PROD-00720,Middle Practice,Vertex,Electronics,Laptops,Germany,525.17,1008.62,47.93,4.5,1148,2021-02-19
+PROD-00721,Defense Goal,HomeSphere,Fashion,Footwear,Italy,978.47,2146.26,54.41,3.7,1407,2026-07-16
+PROD-00722,Game Several,GlobalOne,Electronics,Smartphones,France,1262.96,2467.9,48.82,5.0,1641,2026-12-11
+PROD-00723,Compare Method,Apex,Electronics,Gaming,United States,953.04,1336.18,28.67,4.4,56,2026-04-14
+PROD-00724,Local Student,UrbanStyle,Sports,Equipment,China,491.03,1128.45,56.49,3.1,1437,2023-03-27
+PROD-00725,Produce Himself,UrbanStyle,Fashion,Luxury,China,266.45,684.56,61.08,3.5,1503,2022-02-28
+PROD-00726,Create Draw,NovaTech,Electronics,Smartphones,France,1256.38,2069.06,39.28,4.3,1893,2025-06-06
+PROD-00727,Environmental Late,GlobalOne,Fashion,Clothing,Italy,1042.76,2106.63,50.5,3.6,1519,2025-03-20
+PROD-00728,Cell Product,Apex,Fashion,Footwear,United Kingdom,322.9,404.63,20.2,3.6,1488,2024-10-25
+PROD-00729,Can Poor,ProGear,Electronics,Gaming,Germany,981.48,2651.26,62.98,4.7,1465,2022-09-12
+PROD-00730,Too Get,Vertex,Sports,Equipment,United States,1150.27,2831.41,59.37,4.3,1626,2025-12-16
+PROD-00731,On Hot,ProGear,Fashion,Luxury,United Kingdom,394.13,1045.04,62.29,4.3,127,2026-11-25
+PROD-00732,Throughout Opportunity,LuxeCare,Beauty,Skincare,Netherlands,842.86,1161.11,27.41,3.9,1559,2025-12-18
+PROD-00733,Buy Probably,Apex,Electronics,Accessories,United States,693.24,1790.85,61.29,4.1,992,2024-06-06
+PROD-00734,Direction Section,NovaTech,Home,Furniture,Italy,573.7,1585.06,63.81,3.2,1113,2026-05-13
+PROD-00735,Two Laugh,Vertex,Home,Kitchen,Netherlands,636.71,806.86,21.09,4.5,1919,2026-04-22
+PROD-00736,Best Occur,Apex,Home,Kitchen,Netherlands,1377.52,2270.24,39.32,4.7,328,2024-06-15
+PROD-00737,Certain Office,LuxeCare,Beauty,Personal Care,Italy,441.87,1174.15,62.37,4.5,1540,2025-11-29
+PROD-00738,Size Father,HomeSphere,Home,Kitchen,Germany,1208.34,1484.82,18.62,4.9,389,2026-11-21
+PROD-00739,Likely Party,HomeSphere,Home,Furniture,Germany,1091.37,1841.8,40.74,4.7,742,2026-03-29
+PROD-00740,Why Surface,NovaTech,Sports,Outdoor,Italy,425.87,1105.73,61.49,3.2,1755,2022-08-27
+PROD-00741,Be Seek,UrbanStyle,Electronics,Accessories,Netherlands,1057.01,2182.85,51.58,3.2,58,2025-06-02
+PROD-00742,Entire Later,NovaTech,Sports,Equipment,Germany,366.63,447.23,18.02,3.9,277,2021-02-13
+PROD-00743,Maintain Why,Apex,Home,Furniture,United Kingdom,455.39,982.45,53.65,3.6,1269,2023-02-05
+PROD-00744,Serious Character,Vertex,Fashion,Footwear,United States,453.38,1083.17,58.14,3.1,1339,2022-12-22
+PROD-00745,Seek Task,Apex,Beauty,Personal Care,China,1354.83,3473.27,60.99,4.3,1476,2025-01-25
+PROD-00746,Show Church,GlobalOne,Home,Appliances,Germany,891.87,2343.55,61.94,3.4,1901,2025-07-27
+PROD-00747,Care Himself,LuxeCare,Beauty,Skincare,Germany,123.06,194.83,36.84,4.6,906,2023-07-27
+PROD-00748,Money Parent,ProGear,Sports,Equipment,Italy,56.83,121.19,53.11,5.0,1216,2023-10-05
+PROD-00749,Make Reveal,NovaTech,Fashion,Luxury,Netherlands,1284.27,2612.61,50.84,3.1,675,2026-06-08
+PROD-00750,Mr Cultural,HomeSphere,Fashion,Footwear,Italy,1247.9,2693.42,53.67,3.2,1381,2023-07-25
+PROD-00751,Quite Sort,NovaTech,Home,Kitchen,Italy,145.32,385.88,62.34,4.3,556,2023-08-24
+PROD-00752,South Century,GlobalOne,Beauty,Personal Care,Netherlands,1244.78,3244.35,61.63,4.1,1186,2025-08-16
+PROD-00753,When Season,HomeSphere,Home,Kitchen,Italy,778.58,1470.49,47.05,3.6,1641,2024-11-07
+PROD-00754,Lead Hundred,NovaTech,Home,Appliances,Netherlands,654.72,1596.34,58.99,4.2,1792,2024-02-27
+PROD-00755,Film Skill,ProGear,Electronics,Smartphones,United States,1339.32,2557.31,47.63,4.2,329,2023-04-01
+PROD-00756,Until Only,Vertex,Beauty,Cosmetics,France,948.8,2036.8,53.42,4.4,540,2025-12-30
+PROD-00757,Top Speech,Apex,Sports,Outdoor,China,359.96,727.04,50.49,3.2,20,2026-08-30
+PROD-00758,Fund Late,HomeSphere,Home,Appliances,China,579.84,1148.24,49.5,4.3,414,2026-02-07
+PROD-00759,Short Matter,Apex,Sports,Outdoor,Germany,1426.04,3081.73,53.73,4.5,1645,2023-02-02
+PROD-00760,Require Prove,HomeSphere,Home,Appliances,Italy,761.87,1687.21,54.84,3.1,494,2022-12-13
+PROD-00761,Senior Woman,UrbanStyle,Electronics,Smartphones,Germany,385.32,685.47,43.79,3.9,541,2023-09-20
+PROD-00762,Increase Center,HomeSphere,Home,Furniture,France,73.24,104.3,29.78,3.6,1432,2021-07-10
+PROD-00763,Various Minute,LuxeCare,Electronics,Smartphones,United Kingdom,1457.44,2521.6,42.2,4.0,484,2021-09-25
+PROD-00764,Phone Fact,LuxeCare,Beauty,Cosmetics,Italy,298.17,649.19,54.07,3.6,1368,2026-01-24
+PROD-00765,Kitchen Identify,Vertex,Electronics,Accessories,France,314.45,637.24,50.65,3.0,746,2025-03-10
+PROD-00766,Move Option,UrbanStyle,Electronics,Accessories,United States,16.46,25.52,35.5,3.1,1677,2026-10-20
+PROD-00767,Painting Adult,Vertex,Electronics,Smartphones,United States,166.5,290.07,42.6,4.6,1303,2026-12-24
+PROD-00768,Consumer Well,Apex,Sports,Outdoor,China,860.21,1737.86,50.5,3.6,1578,2026-11-10
+PROD-00769,Message Likely,Apex,Fashion,Footwear,Germany,1397.97,2565.59,45.51,3.2,498,2024-03-10
+PROD-00770,Somebody Job,Vertex,Beauty,Cosmetics,United States,927.51,1281.95,27.65,3.7,578,2024-07-19
+PROD-00771,Air World,Vertex,Electronics,Laptops,United Kingdom,763.58,1984.36,61.52,4.0,409,2023-08-16
+PROD-00772,Reason Side,HomeSphere,Sports,Fitness,United Kingdom,1054.88,2941.54,64.14,3.3,1217,2025-11-02
+PROD-00773,Institution Agreement,LuxeCare,Home,Furniture,France,415.72,761.32,45.39,3.8,1178,2025-04-20
+PROD-00774,Well Rule,Apex,Electronics,Accessories,Italy,619.48,1642.97,62.3,4.4,415,2024-07-03
+PROD-00775,Simply These,HomeSphere,Fashion,Clothing,Italy,913.82,1548.92,41.0,4.6,1191,2022-12-04
+PROD-00776,Race White,NovaTech,Electronics,Laptops,France,1432.82,3601.99,60.22,3.0,1489,2021-08-17
+PROD-00777,Expert At,ProGear,Fashion,Luxury,France,956.42,1225.96,21.99,3.5,1982,2022-03-16
+PROD-00778,Space International,LuxeCare,Beauty,Personal Care,France,93.99,203.59,53.83,4.4,414,2024-09-28
+PROD-00779,Record Everyone,HomeSphere,Home,Kitchen,Germany,176.16,319.58,44.88,3.9,197,2024-02-26
+PROD-00780,Cover How,LuxeCare,Fashion,Clothing,United States,556.73,775.88,28.25,3.8,610,2026-10-10
+PROD-00781,Total Compare,LuxeCare,Beauty,Skincare,China,1128.01,1481.77,23.87,3.2,1053,2025-08-23
+PROD-00782,Country Hour,NovaTech,Sports,Fitness,China,535.38,1449.15,63.06,4.3,1031,2023-03-30
+PROD-00783,Than Mention,LuxeCare,Electronics,Gaming,Netherlands,1019.61,1813.96,43.79,4.2,1440,2025-07-27
+PROD-00784,Seek Speak,Apex,Fashion,Clothing,Italy,20.15,44.69,54.91,4.8,490,2023-08-01
+PROD-00785,Commercial Year,LuxeCare,Beauty,Personal Care,United Kingdom,920.8,2392.16,61.51,4.4,1142,2021-11-05
+PROD-00786,Democratic Office,LuxeCare,Home,Furniture,United States,185.23,489.73,62.18,3.1,1714,2021-04-28
+PROD-00787,Agree Important,NovaTech,Beauty,Skincare,China,803.28,1146.62,29.94,3.0,1404,2022-06-25
+PROD-00788,From Thus,ProGear,Beauty,Skincare,France,635.94,1063.33,40.19,4.0,669,2021-08-26
+PROD-00789,Drive Somebody,NovaTech,Fashion,Clothing,China,867.91,1102.23,21.26,3.2,754,2021-05-31
+PROD-00790,Might Relate,GlobalOne,Fashion,Footwear,Italy,840.17,1469.51,42.83,4.5,1168,2026-10-14
+PROD-00791,Shoulder Phone,UrbanStyle,Home,Furniture,United Kingdom,980.18,2502.37,60.83,4.4,1104,2026-03-22
+PROD-00792,Then So,Apex,Beauty,Skincare,France,647.75,1474.76,56.08,3.6,341,2024-05-22
+PROD-00793,Experience Remain,NovaTech,Home,Appliances,Netherlands,462.94,1139.93,59.39,3.9,510,2025-03-20
+PROD-00794,Attorney Organization,Apex,Fashion,Clothing,Germany,1198.58,3015.48,60.25,4.7,1731,2021-11-22
+PROD-00795,Something Enter,Vertex,Sports,Fitness,United Kingdom,1375.37,2598.87,47.08,3.6,388,2024-11-16
+PROD-00796,Lead Key,UrbanStyle,Home,Furniture,Netherlands,875.39,1570.34,44.25,4.2,479,2021-02-15
+PROD-00797,Civil Leader,HomeSphere,Fashion,Clothing,China,1059.85,2439.19,56.55,3.7,417,2024-10-12
+PROD-00798,The Like,HomeSphere,Fashion,Footwear,Germany,254.46,480.64,47.06,3.3,831,2024-02-25
+PROD-00799,Successful Far,ProGear,Fashion,Luxury,Netherlands,1335.7,2342.02,42.97,3.3,1616,2021-11-05
+PROD-00800,Region Total,LuxeCare,Fashion,Footwear,Germany,43.04,96.12,55.22,4.3,873,2026-05-24
+PROD-00801,Individual Sport,NovaTech,Fashion,Clothing,United Kingdom,514.2,676.04,23.94,3.8,70,2025-09-15
+PROD-00802,Lot Management,UrbanStyle,Electronics,Laptops,France,470.27,1073.81,56.21,4.2,1491,2025-11-25
+PROD-00803,Customer Turn,ProGear,Fashion,Footwear,China,550.07,851.85,35.43,5.0,475,2022-02-19
+PROD-00804,Try Foot,NovaTech,Fashion,Luxury,France,683.73,1573.43,56.55,3.3,473,2022-03-09
+PROD-00805,Responsibility Another,UrbanStyle,Fashion,Footwear,Germany,730.96,909.36,19.62,4.0,1153,2024-07-29
+PROD-00806,Laugh State,ProGear,Beauty,Skincare,United States,1446.21,2624.48,44.9,3.1,645,2023-07-28
+PROD-00807,Arm Situation,HomeSphere,Fashion,Luxury,Netherlands,51.28,93.37,45.08,3.3,1141,2021-12-19
+PROD-00808,Less Player,LuxeCare,Fashion,Clothing,United Kingdom,39.91,96.18,58.5,3.9,244,2021-03-09
+PROD-00809,Any Spring,NovaTech,Home,Appliances,United Kingdom,437.42,1154.85,62.12,3.2,374,2025-08-05
+PROD-00810,Range Data,Vertex,Electronics,Accessories,France,1434.1,2441.34,41.26,4.8,1949,2025-03-18
+PROD-00811,Behind Establish,UrbanStyle,Sports,Outdoor,United Kingdom,906.4,2286.6,60.36,5.0,560,2024-01-30
+PROD-00812,Forward Marriage,HomeSphere,Home,Appliances,Netherlands,436.17,1194.15,63.47,3.8,170,2023-04-17
+PROD-00813,Low Heart,Apex,Electronics,Smartphones,United Kingdom,581.34,1014.22,42.68,4.1,874,2023-01-02
+PROD-00814,Must Charge,UrbanStyle,Sports,Outdoor,Netherlands,235.45,491.13,52.06,4.1,522,2023-02-20
+PROD-00815,Sometimes Other,UrbanStyle,Home,Furniture,Netherlands,1144.04,2898.81,60.53,3.9,1575,2023-12-07
+PROD-00816,Central Including,Vertex,Sports,Outdoor,Netherlands,456.99,738.01,38.08,3.4,907,2021-05-16
+PROD-00817,Chair Season,GlobalOne,Electronics,Laptops,United States,91.18,159.38,42.79,3.5,1312,2025-11-07
+PROD-00818,Money Structure,Vertex,Electronics,Laptops,Netherlands,1449.79,3033.45,52.21,3.7,1633,2021-04-13
+PROD-00819,Career Task,ProGear,Beauty,Cosmetics,United States,872.8,1241.75,29.71,3.9,227,2024-11-07
+PROD-00820,Since Drug,NovaTech,Beauty,Skincare,Netherlands,941.22,1865.72,49.55,3.8,422,2022-04-10
+PROD-00821,Note Claim,Vertex,Fashion,Luxury,Germany,1490.8,3888.76,61.66,4.2,808,2021-11-21
+PROD-00822,Us Sense,Vertex,Electronics,Laptops,China,856.22,1877.74,54.4,3.4,1228,2021-07-05
+PROD-00823,Leave Need,NovaTech,Fashion,Footwear,France,595.73,752.49,20.83,4.0,1114,2026-02-28
+PROD-00824,Record Memory,NovaTech,Beauty,Skincare,United States,816.82,1277.83,36.08,4.9,1828,2021-04-04
+PROD-00825,Produce Those,Apex,Fashion,Footwear,China,1364.63,3214.29,57.54,4.1,918,2025-09-10
+PROD-00826,Say Theory,NovaTech,Home,Furniture,United Kingdom,1305.6,1839.65,29.03,4.6,1047,2021-01-13
+PROD-00827,Sure Generation,LuxeCare,Electronics,Gaming,Netherlands,191.61,473.42,59.53,3.6,1506,2021-07-30
+PROD-00828,Respond Art,NovaTech,Fashion,Clothing,Netherlands,1316.25,3567.65,63.11,3.3,755,2025-07-18
+PROD-00829,Catch Democratic,NovaTech,Electronics,Smartphones,China,696.7,1929.57,63.89,4.0,1525,2021-06-27
+PROD-00830,At Apply,HomeSphere,Home,Kitchen,Italy,1296.0,2775.99,53.31,3.8,1478,2025-03-19
+PROD-00831,These Boy,Vertex,Electronics,Gaming,France,432.25,659.25,34.43,4.5,465,2022-04-15
+PROD-00832,Indicate Fine,Apex,Sports,Outdoor,Italy,582.88,1176.28,50.45,4.0,1673,2021-05-15
+PROD-00833,Check Station,LuxeCare,Fashion,Luxury,Germany,868.03,2243.79,61.31,5.0,1208,2022-12-06
+PROD-00834,Either Campaign,Apex,Home,Kitchen,Germany,614.34,1550.61,60.38,4.5,207,2026-06-11
+PROD-00835,Million Impact,NovaTech,Fashion,Clothing,Germany,862.43,2354.15,63.37,3.4,1423,2021-01-11
+PROD-00836,Space Behavior,GlobalOne,Sports,Fitness,China,168.35,432.04,61.03,3.9,209,2022-10-24
+PROD-00837,Simple College,LuxeCare,Beauty,Personal Care,Germany,1271.22,3341.97,61.96,3.1,241,2025-12-12
+PROD-00838,Focus Remain,HomeSphere,Beauty,Skincare,Netherlands,1325.78,2541.93,47.84,4.0,918,2023-02-04
+PROD-00839,Article Stand,NovaTech,Sports,Equipment,China,941.76,2526.0,62.72,3.0,793,2026-01-31
+PROD-00840,Manage Nearly,Vertex,Home,Furniture,China,717.88,1651.38,56.53,4.4,1827,2025-10-04
+PROD-00841,As Score,HomeSphere,Electronics,Gaming,France,1040.34,1472.18,29.33,3.6,1699,2026-05-11
+PROD-00842,Brother Tree,HomeSphere,Home,Appliances,China,541.28,1346.22,59.79,3.6,260,2024-02-19
+PROD-00843,Something Team,UrbanStyle,Electronics,Gaming,France,320.0,874.21,63.4,3.0,693,2024-10-20
+PROD-00844,Everyone Support,HomeSphere,Sports,Equipment,Netherlands,1496.74,3416.93,56.2,4.7,1987,2023-03-19
+PROD-00845,Those Beautiful,NovaTech,Home,Furniture,United Kingdom,445.46,544.76,18.23,4.5,609,2021-12-10
+PROD-00846,Behind By,Vertex,Fashion,Clothing,France,1252.05,2985.84,58.07,3.3,76,2026-08-04
+PROD-00847,Song Out,HomeSphere,Home,Furniture,Netherlands,1131.37,2749.54,58.85,4.3,177,2021-01-30
+PROD-00848,Nation According,NovaTech,Fashion,Footwear,China,1150.34,2937.36,60.84,4.2,1203,2022-04-01
+PROD-00849,Daughter Before,Apex,Beauty,Personal Care,Germany,137.46,272.2,49.5,3.2,138,2022-09-16
+PROD-00850,Avoid Experience,Vertex,Sports,Fitness,China,614.28,1137.26,45.99,3.1,1644,2022-08-19
+PROD-00851,Whose No,HomeSphere,Sports,Fitness,United Kingdom,526.49,725.29,27.41,4.6,475,2024-05-23
+PROD-00852,Act Mouth,LuxeCare,Sports,Fitness,United States,1421.79,1870.66,24.0,4.9,1870,2026-10-24
+PROD-00853,Certainly Defense,LuxeCare,Home,Appliances,Germany,786.25,1320.35,40.45,3.2,1958,2024-01-07
+PROD-00854,Down General,GlobalOne,Beauty,Skincare,United Kingdom,753.43,1861.89,59.53,4.4,902,2022-12-07
+PROD-00855,Conference Eight,UrbanStyle,Fashion,Clothing,United States,80.09,105.45,24.05,3.8,930,2026-01-01
+PROD-00856,Participant Least,GlobalOne,Beauty,Cosmetics,China,446.46,701.75,36.38,3.6,510,2022-03-10
+PROD-00857,Expert Party,NovaTech,Home,Kitchen,United States,1206.21,3240.8,62.78,3.8,1855,2022-09-24
+PROD-00858,I However,UrbanStyle,Fashion,Footwear,China,1359.64,2330.96,41.67,4.0,908,2025-12-21
+PROD-00859,Policy Every,UrbanStyle,Sports,Equipment,China,342.91,762.89,55.05,5.0,1420,2022-04-19
+PROD-00860,Impact Enough,HomeSphere,Beauty,Personal Care,United Kingdom,907.22,1608.05,43.58,4.3,1702,2024-07-05
+PROD-00861,Argue Daughter,UrbanStyle,Fashion,Clothing,United Kingdom,188.77,494.93,61.86,4.0,580,2023-06-06
+PROD-00862,Law Movie,GlobalOne,Sports,Outdoor,China,676.78,1446.54,53.21,4.2,1121,2026-12-30
+PROD-00863,Behavior Wife,Apex,Beauty,Cosmetics,Germany,112.3,257.41,56.37,3.5,563,2021-11-15
+PROD-00864,Themselves Often,LuxeCare,Sports,Fitness,France,1072.36,2698.12,60.26,4.6,1603,2026-08-25
+PROD-00865,Contain Program,ProGear,Beauty,Personal Care,Netherlands,830.99,1688.8,50.79,3.3,265,2021-01-18
+PROD-00866,Smile Story,NovaTech,Home,Kitchen,United States,1164.14,1902.5,38.81,4.0,108,2026-11-26
+PROD-00867,Week Enter,LuxeCare,Electronics,Smartphones,United States,429.99,608.06,29.28,4.3,1636,2023-12-02
+PROD-00868,Believe Fact,Apex,Home,Appliances,Germany,86.23,206.77,58.3,3.6,131,2026-10-13
+PROD-00869,Later Serious,Vertex,Sports,Outdoor,Germany,5.2,10.49,50.43,3.1,515,2026-08-08
+PROD-00870,However Age,Apex,Fashion,Luxury,France,417.87,974.12,57.1,3.1,845,2022-01-02
+PROD-00871,Democratic Race,Apex,Sports,Fitness,China,1259.81,1519.47,17.09,3.5,470,2024-03-25
+PROD-00872,Around Treatment,NovaTech,Home,Furniture,China,1112.65,1898.22,41.38,3.2,1914,2021-05-05
+PROD-00873,Town Free,ProGear,Fashion,Footwear,Italy,543.55,887.42,38.75,4.7,514,2025-04-02
+PROD-00874,Center In,NovaTech,Home,Appliances,Netherlands,473.46,1165.8,59.39,4.8,1712,2024-12-02
+PROD-00875,Within Night,NovaTech,Home,Kitchen,Netherlands,653.56,1735.8,62.35,3.8,1469,2025-03-11
+PROD-00876,Same Music,NovaTech,Electronics,Smartphones,France,1446.3,1942.18,25.53,4.4,1937,2025-03-27
+PROD-00877,Then Trouble,HomeSphere,Beauty,Skincare,France,743.25,1352.89,45.06,4.3,471,2023-02-23
+PROD-00878,Decide Region,GlobalOne,Home,Kitchen,United Kingdom,1057.27,1276.11,17.15,3.3,1211,2025-01-10
+PROD-00879,Truth Community,HomeSphere,Home,Kitchen,United Kingdom,1071.0,2427.12,55.87,4.9,737,2026-07-14
+PROD-00880,So Home,ProGear,Fashion,Luxury,Italy,1142.75,3109.69,63.25,4.4,1255,2026-01-14
+PROD-00881,West Seek,Vertex,Sports,Equipment,China,450.59,616.67,26.93,4.6,1774,2021-08-31
+PROD-00882,Professional Look,HomeSphere,Beauty,Cosmetics,France,968.0,1236.23,21.7,3.7,899,2021-10-23
+PROD-00883,Public Kind,HomeSphere,Electronics,Smartphones,France,1435.42,2871.76,50.02,3.9,126,2024-05-29
+PROD-00884,Reality Law,HomeSphere,Sports,Fitness,Italy,689.26,1057.47,34.82,3.7,1154,2025-03-08
+PROD-00885,Leave Course,UrbanStyle,Home,Kitchen,United States,557.87,716.18,22.1,4.5,1065,2026-09-24
+PROD-00886,Network Deep,LuxeCare,Electronics,Smartphones,United States,627.67,1578.9,60.25,4.7,1910,2021-09-15
+PROD-00887,Almost International,LuxeCare,Beauty,Personal Care,United States,321.93,724.91,55.59,3.9,412,2021-11-03
+PROD-00888,Billion Able,Apex,Home,Kitchen,China,1320.83,2040.93,35.28,4.4,1510,2023-05-02
+PROD-00889,Imagine Member,Vertex,Sports,Outdoor,United Kingdom,913.59,1527.96,40.21,3.3,603,2025-09-29
+PROD-00890,Knowledge Dark,Vertex,Home,Appliances,Germany,979.2,2332.22,58.01,3.6,1242,2022-07-12
+PROD-00891,Quality Thing,NovaTech,Electronics,Smartphones,Netherlands,969.02,1775.45,45.42,4.4,361,2022-05-25
+PROD-00892,Tonight Report,NovaTech,Beauty,Cosmetics,China,302.83,794.73,61.9,3.6,405,2022-11-06
+PROD-00893,These Political,LuxeCare,Beauty,Skincare,United Kingdom,554.84,717.38,22.66,3.2,1315,2022-08-20
+PROD-00894,Store Know,LuxeCare,Electronics,Gaming,France,776.21,1263.78,38.58,4.7,1489,2023-06-25
+PROD-00895,Ten Issue,Apex,Fashion,Clothing,United Kingdom,26.97,48.72,44.64,3.7,1345,2023-03-18
+PROD-00896,And Free,HomeSphere,Sports,Fitness,Germany,33.89,47.41,28.52,3.8,594,2022-02-08
+PROD-00897,Break Wide,HomeSphere,Electronics,Smartphones,France,741.83,1370.06,45.85,4.1,1422,2026-11-08
+PROD-00898,At At,ProGear,Sports,Outdoor,China,894.72,1087.87,17.75,3.9,505,2023-04-03
+PROD-00899,Industry To,GlobalOne,Sports,Equipment,France,1445.43,2934.88,50.75,4.4,405,2023-07-31
+PROD-00900,Some Push,HomeSphere,Fashion,Footwear,France,471.24,1149.07,58.99,4.5,104,2021-08-24
+PROD-00901,Require Run,LuxeCare,Fashion,Luxury,Italy,784.34,2166.05,63.79,3.3,1328,2022-12-02
+PROD-00902,Particularly Main,NovaTech,Beauty,Skincare,United States,30.34,73.79,58.88,4.6,1690,2026-01-07
+PROD-00903,Some Data,LuxeCare,Fashion,Luxury,Germany,184.71,300.14,38.46,3.0,121,2022-01-10
+PROD-00904,Senior Beautiful,GlobalOne,Fashion,Luxury,United States,443.5,1080.82,58.97,4.0,1546,2022-10-22
+PROD-00905,Mission Cup,UrbanStyle,Sports,Outdoor,United States,525.4,942.98,44.28,3.0,752,2026-08-18
+PROD-00906,Level Affect,UrbanStyle,Home,Furniture,China,453.2,1012.6,55.24,4.9,1191,2021-10-20
+PROD-00907,Throw Stand,Apex,Electronics,Laptops,Germany,1271.36,1573.63,19.21,4.8,537,2026-05-06
+PROD-00908,Move Little,ProGear,Fashion,Footwear,France,1175.88,2879.26,59.16,3.9,1193,2024-04-15
+PROD-00909,Democrat Consider,NovaTech,Beauty,Personal Care,France,600.02,1010.83,40.64,3.1,1276,2025-08-04
+PROD-00910,Where Note,Apex,Beauty,Cosmetics,France,346.21,552.05,37.29,4.0,46,2026-12-13
+PROD-00911,Yeah Work,ProGear,Electronics,Laptops,Germany,1122.43,2197.83,48.93,3.1,418,2026-05-13
+PROD-00912,Best Dinner,NovaTech,Fashion,Footwear,Netherlands,1436.9,3891.64,63.08,4.6,592,2021-06-28
+PROD-00913,Beyond Guess,NovaTech,Beauty,Cosmetics,United Kingdom,1487.04,3079.92,51.72,4.9,228,2024-11-03
+PROD-00914,Really To,LuxeCare,Home,Furniture,Netherlands,118.03,210.69,43.98,3.5,112,2022-05-06
+PROD-00915,His Feeling,Apex,Fashion,Luxury,Germany,297.77,424.41,29.84,4.2,996,2021-01-20
+PROD-00916,Develop Break,HomeSphere,Home,Kitchen,France,1173.08,2493.12,52.95,3.3,1561,2024-08-28
+PROD-00917,Throughout Responsibility,NovaTech,Electronics,Accessories,Netherlands,1217.63,2700.13,54.9,3.8,812,2026-11-22
+PROD-00918,Page These,UrbanStyle,Home,Appliances,United Kingdom,1012.82,1636.56,38.11,3.7,52,2022-11-12
+PROD-00919,Often Statement,Apex,Home,Furniture,China,1376.64,2291.84,39.93,3.9,756,2023-10-01
+PROD-00920,What Issue,UrbanStyle,Fashion,Footwear,France,1335.76,3115.47,57.12,3.1,641,2021-09-27
+PROD-00921,Sit Surface,ProGear,Sports,Equipment,Italy,225.22,273.09,17.53,4.3,741,2022-11-28
+PROD-00922,Economic Mother,Vertex,Beauty,Cosmetics,China,674.27,953.98,29.32,4.9,1292,2026-12-15
+PROD-00923,Less Know,UrbanStyle,Home,Kitchen,China,796.84,1264.61,36.99,4.0,1622,2021-01-01
+PROD-00924,Behavior Cover,HomeSphere,Beauty,Skincare,France,1021.03,1349.78,24.36,3.5,967,2022-05-11
+PROD-00925,Join Individual,ProGear,Sports,Outdoor,Netherlands,1211.41,2344.64,48.33,4.1,1931,2023-11-07
+PROD-00926,In Local,UrbanStyle,Sports,Fitness,France,652.06,828.27,21.27,3.3,1712,2025-02-27
+PROD-00927,Range Whole,GlobalOne,Sports,Equipment,Germany,671.08,1029.9,34.84,3.1,318,2022-11-06
+PROD-00928,Laugh Wide,LuxeCare,Beauty,Skincare,United Kingdom,1266.26,3507.42,63.9,4.6,1324,2021-02-18
+PROD-00929,Person Others,GlobalOne,Home,Appliances,Netherlands,1281.41,2033.81,36.99,4.9,737,2023-06-18
+PROD-00930,Card Crime,ProGear,Sports,Equipment,United Kingdom,299.4,815.05,63.27,5.0,1768,2021-02-19
+PROD-00931,Include Better,ProGear,Sports,Equipment,United States,1069.03,2961.03,63.9,4.1,609,2023-10-27
+PROD-00932,Style Pretty,LuxeCare,Fashion,Footwear,Italy,393.01,746.4,47.35,4.2,1298,2023-10-20
+PROD-00933,Tree Air,NovaTech,Fashion,Clothing,United States,114.26,250.89,54.46,5.0,1548,2026-11-01
+PROD-00934,List Chance,GlobalOne,Beauty,Personal Care,Italy,289.21,713.81,59.48,4.8,451,2022-07-08
+PROD-00935,Understand Knowledge,ProGear,Home,Appliances,Germany,1415.83,3874.02,63.45,4.0,1645,2021-11-02
+PROD-00936,Evidence Quickly,HomeSphere,Fashion,Footwear,United States,1466.08,3535.74,58.54,3.3,928,2021-06-28
+PROD-00937,To But,GlobalOne,Electronics,Gaming,United Kingdom,717.97,1686.75,57.43,3.5,655,2025-05-17
+PROD-00938,College Later,HomeSphere,Sports,Equipment,United Kingdom,962.72,2182.06,55.88,3.3,479,2022-04-28
+PROD-00939,Financial Something,Apex,Sports,Equipment,Italy,849.8,2068.93,58.93,4.0,1147,2025-08-24
+PROD-00940,Commercial Out,GlobalOne,Sports,Fitness,United States,23.09,28.04,17.65,3.7,1064,2022-11-30
+PROD-00941,Listen Us,Vertex,Beauty,Personal Care,Germany,1389.66,2176.04,36.14,4.3,56,2026-09-29
+PROD-00942,Catch Five,Vertex,Home,Appliances,United States,337.0,577.84,41.68,4.7,1010,2022-05-15
+PROD-00943,On Town,ProGear,Electronics,Gaming,Netherlands,1094.65,1480.67,26.07,3.9,582,2024-04-18
+PROD-00944,Thought Practice,GlobalOne,Sports,Fitness,Germany,48.61,95.73,49.22,4.3,1424,2021-10-22
+PROD-00945,Boy Assume,Vertex,Fashion,Clothing,France,182.16,302.79,39.84,3.8,1174,2025-12-05
+PROD-00946,Certainly Wonder,NovaTech,Beauty,Skincare,United States,1379.7,3848.27,64.15,3.1,714,2022-07-01
+PROD-00947,Religious Nice,HomeSphere,Sports,Equipment,United States,1142.71,2050.89,44.28,3.8,937,2024-12-02
+PROD-00948,Support Throughout,GlobalOne,Sports,Outdoor,France,1132.63,3023.54,62.54,4.9,79,2025-02-02
+PROD-00949,Difference Enjoy,ProGear,Beauty,Skincare,Italy,867.8,1537.22,43.55,4.6,175,2024-09-20
+PROD-00950,Card Life,NovaTech,Fashion,Footwear,Germany,380.25,799.48,52.44,3.7,257,2025-07-17
+PROD-00951,Political Quickly,NovaTech,Sports,Outdoor,Netherlands,986.66,1563.5,36.89,3.4,507,2021-07-07
+PROD-00952,Natural Serious,LuxeCare,Home,Furniture,United Kingdom,1377.77,1877.74,26.63,4.0,67,2021-02-15
+PROD-00953,Decision Base,NovaTech,Sports,Outdoor,France,335.17,423.08,20.78,3.1,1455,2021-12-05
+PROD-00954,Cultural Religious,Vertex,Electronics,Gaming,China,266.96,690.58,61.34,3.6,1514,2023-07-01
+PROD-00955,Hard Street,LuxeCare,Beauty,Cosmetics,United States,1425.94,3038.1,53.06,3.9,1926,2024-11-18
+PROD-00956,Enter Economic,HomeSphere,Beauty,Personal Care,United Kingdom,872.23,1767.76,50.66,4.5,1498,2021-09-11
+PROD-00957,Like Hour,NovaTech,Beauty,Cosmetics,France,427.33,754.19,43.34,4.8,258,2022-06-13
+PROD-00958,Be Fact,GlobalOne,Home,Appliances,France,1419.95,3731.76,61.95,3.8,262,2022-11-12
+PROD-00959,Task Natural,LuxeCare,Beauty,Cosmetics,Germany,1171.65,2298.94,49.04,4.0,409,2021-10-20
+PROD-00960,Find Agent,LuxeCare,Sports,Fitness,China,311.0,667.35,53.4,3.4,270,2021-06-12
+PROD-00961,Early Glass,ProGear,Sports,Equipment,United States,500.69,1285.8,61.06,3.4,1836,2026-11-10
+PROD-00962,Concern Question,NovaTech,Home,Appliances,United Kingdom,111.38,145.95,23.69,4.9,775,2023-11-14
+PROD-00963,Myself Senior,Vertex,Beauty,Skincare,Germany,762.85,1415.13,46.09,4.6,170,2025-01-24
+PROD-00964,Old Enjoy,ProGear,Electronics,Gaming,France,1254.56,2172.28,42.25,4.4,2000,2022-12-20
+PROD-00965,Especially Course,HomeSphere,Electronics,Laptops,Germany,1157.83,2602.15,55.5,3.3,103,2022-11-20
+PROD-00966,Could System,NovaTech,Electronics,Gaming,Italy,1314.45,2711.12,51.52,3.6,1235,2022-10-29
+PROD-00967,Responsibility Perform,NovaTech,Home,Furniture,Netherlands,640.72,807.38,20.64,3.3,659,2025-07-08
+PROD-00968,Western Team,LuxeCare,Fashion,Footwear,Italy,1149.49,1379.41,16.67,3.8,541,2023-04-27
+PROD-00969,Democratic Because,HomeSphere,Home,Appliances,United States,786.15,1012.1,22.32,4.9,146,2025-01-12
+PROD-00970,Feeling Than,UrbanStyle,Home,Appliances,United Kingdom,343.06,578.65,40.71,3.6,1208,2021-06-23
+PROD-00971,Use Painting,Apex,Fashion,Footwear,Germany,349.47,420.19,16.83,4.5,576,2024-09-21
+PROD-00972,Skin Accept,LuxeCare,Beauty,Personal Care,China,1450.43,2261.03,35.85,4.3,647,2025-05-20
+PROD-00973,Reveal Reflect,HomeSphere,Sports,Fitness,Italy,1114.14,2849.39,60.9,3.8,808,2023-08-06
+PROD-00974,Reach Large,Apex,Beauty,Skincare,Germany,457.88,787.77,41.88,4.4,150,2026-05-21
+PROD-00975,Environment Certain,GlobalOne,Home,Appliances,United States,1226.09,1827.59,32.91,3.7,300,2024-01-02
+PROD-00976,Catch Less,LuxeCare,Fashion,Clothing,United States,1353.4,3370.93,59.85,5.0,1333,2024-05-03
+PROD-00977,Claim Live,Apex,Electronics,Gaming,United States,1132.6,2071.65,45.33,4.2,1297,2021-06-02
+PROD-00978,High But,HomeSphere,Beauty,Personal Care,United States,993.22,1316.54,24.56,4.1,663,2021-05-07
+PROD-00979,Effect Today,GlobalOne,Fashion,Footwear,Germany,1065.43,1563.75,31.87,4.6,113,2022-02-25
+PROD-00980,Business Task,LuxeCare,Electronics,Smartphones,Italy,877.74,2390.57,63.28,3.1,143,2022-08-21
+PROD-00981,Make Hit,LuxeCare,Home,Furniture,Italy,401.66,868.58,53.76,3.6,820,2022-12-23
+PROD-00982,Area Evidence,UrbanStyle,Beauty,Cosmetics,Netherlands,1073.06,2590.81,58.58,3.2,41,2021-01-17
+PROD-00983,Alone Whom,Apex,Beauty,Personal Care,Netherlands,773.21,1557.42,50.35,3.7,25,2022-05-18
+PROD-00984,Loss Can,NovaTech,Fashion,Clothing,Italy,1399.72,3532.91,60.38,4.4,479,2021-04-07
+PROD-00985,Page Change,ProGear,Electronics,Laptops,France,1072.92,2080.12,48.42,4.8,442,2023-04-16
+PROD-00986,Live Argue,NovaTech,Electronics,Accessories,Germany,1043.42,2469.12,57.74,4.7,1896,2025-12-13
+PROD-00987,Reflect Dream,GlobalOne,Sports,Equipment,Germany,414.74,1033.25,59.86,3.4,1630,2022-04-13
+PROD-00988,Find Almost,LuxeCare,Beauty,Cosmetics,China,521.29,905.47,42.43,5.0,1830,2026-08-30
+PROD-00989,Understand Stop,Vertex,Beauty,Personal Care,Italy,1285.52,2984.81,56.93,4.5,316,2024-12-31
+PROD-00990,Voice You,UrbanStyle,Electronics,Gaming,France,845.3,2295.28,63.17,4.0,1723,2022-07-07
+PROD-00991,Political Still,Vertex,Beauty,Skincare,Italy,573.87,838.34,31.55,4.6,525,2023-09-18
+PROD-00992,Position Decade,LuxeCare,Fashion,Clothing,Netherlands,1102.99,2001.89,44.9,3.1,413,2022-07-22
+PROD-00993,Question Choose,NovaTech,Sports,Fitness,United States,1259.3,1534.17,17.92,4.4,1489,2021-03-20
+PROD-00994,Upon Yard,ProGear,Home,Kitchen,Italy,1455.53,2765.88,47.38,3.5,1834,2026-06-13
+PROD-00995,I Rather,ProGear,Beauty,Cosmetics,United Kingdom,1058.78,2654.79,60.12,4.1,1632,2022-05-09
+PROD-00996,These Marriage,Apex,Fashion,Footwear,Germany,1450.72,1860.79,22.04,4.0,1513,2021-04-22
+PROD-00997,Buy Out,ProGear,Beauty,Personal Care,Netherlands,1079.09,2784.29,61.24,3.4,811,2024-07-03
+PROD-00998,Fear Only,LuxeCare,Home,Appliances,China,1201.01,2503.3,52.02,3.8,1008,2022-11-04
+PROD-00999,Teacher Prevent,HomeSphere,Sports,Equipment,China,201.91,521.83,61.31,3.3,1384,2022-11-07
+PROD-01000,Never Call,Apex,Electronics,Gaming,Germany,468.13,779.0,39.91,4.7,189,2025-12-08

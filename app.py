@@ -77,8 +77,28 @@ st.markdown(
 
 
 # ==================================================
-# DATA LOADING
+# DATA LOADING (PRODUCTION VERSION)
 # ==================================================
+
+BASE_DIR = Path(__file__).resolve().parent
+
+DATA_LOCATIONS = [
+    BASE_DIR / "data" / "processed",
+    BASE_DIR / "data",
+]
+
+
+def find_data_file(filename):
+
+    for location in DATA_LOCATIONS:
+
+        file_path = location / filename
+
+        if file_path.exists():
+
+            return file_path
+
+    return None
 
 
 @st.cache_data
@@ -100,17 +120,30 @@ def load_data():
 
     datasets = {}
 
-    for name, file in files.items():
+    missing_files = []
 
-        path = DATA_DIR / file
+    for name, filename in files.items():
 
-        if path.exists():
+        path = find_data_file(filename)
+
+        if path:
 
             datasets[name] = pd.read_csv(path)
 
         else:
 
             datasets[name] = pd.DataFrame()
+
+            missing_files.append(filename)
+
+    if missing_files:
+
+        st.error("Missing analytics datasets:\n\n" + "\n".join(missing_files))
+
+        st.info(
+            "Ensure the data/processed folder is committed "
+            "to GitHub before deployment."
+        )
 
     return datasets
 

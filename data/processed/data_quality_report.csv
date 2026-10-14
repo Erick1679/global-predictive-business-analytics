@@ -1,0 +1,7 @@
+dataset,rows,columns,missing_values,duplicate_rows
+customers,15000,13,0,0
+products,1000,12,0,0
+transactions,120000,21,0,0
+marketing,151504,9,0,0
+support,5000,7,0,0
+inventory,10000,7,0,0

@@ -17,9 +17,12 @@ __pycache__/
 # Temporary files
 *.tmp
 
-# Large generated datasets
+# Large raw datasets
 data/raw/
-data/processed/
+
+# Keep processed analytics datasets for deployment
+!data/processed/
+!data/processed/*.csv
 
 # Model files
 *.pkl
