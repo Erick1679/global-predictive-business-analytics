@@ -1,0 +1,9 @@
+pandas
+numpy
+faker
+scikit-learn
+streamlit
+plotly
+xlsxwriter
+openpyxl
+python-pptx

@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
+# Temporary files
+*.tmp
+
+# Large generated datasets
+data/raw/
+data/processed/
+
+# Model files
+*.pkl
+*.joblib
